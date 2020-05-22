@@ -1,0 +1,1741 @@
+,date,county,state,fips,cases,deaths
+416,2020-03-01,New York City,New York,,1,0
+418,2020-03-01,Unknown,Rhode Island,,2,0
+448,2020-03-02,New York City,New York,,1,0
+450,2020-03-02,Unknown,Rhode Island,,2,0
+482,2020-03-03,New York City,New York,,2,0
+485,2020-03-03,Unknown,Rhode Island,,2,0
+518,2020-03-04,New York City,New York,,2,0
+522,2020-03-04,Unknown,Rhode Island,,2,0
+565,2020-03-05,New York City,New York,,4,0
+569,2020-03-05,Unknown,Rhode Island,,2,0
+627,2020-03-06,New York City,New York,,5,0
+636,2020-03-06,Unknown,Rhode Island,,3,0
+715,2020-03-07,New York City,New York,,12,0
+728,2020-03-07,Unknown,Rhode Island,,3,0
+820,2020-03-08,New York City,New York,,14,0
+837,2020-03-08,Unknown,Rhode Island,,3,0
+947,2020-03-09,New York City,New York,,20,0
+966,2020-03-09,Unknown,Rhode Island,,3,0
+1098,2020-03-10,New York City,New York,,37,0
+1119,2020-03-10,Unknown,Rhode Island,,5,0
+1285,2020-03-11,New York City,New York,,52,0
+1313,2020-03-11,Unknown,Rhode Island,,5,0
+1511,2020-03-12,Unknown,New Jersey,,1,0
+1521,2020-03-12,New York City,New York,,96,0
+1559,2020-03-12,Unknown,Rhode Island,,5,0
+1804,2020-03-13,Unknown,New Jersey,,1,0
+1814,2020-03-13,New York City,New York,,155,0
+1858,2020-03-13,Unknown,Puerto Rico,,3,0
+1859,2020-03-13,Unknown,Rhode Island,,20,0
+2151,2020-03-14,Unknown,New Jersey,,1,0
+2163,2020-03-14,New York City,New York,,269,1
+2220,2020-03-14,Unknown,Puerto Rico,,4,0
+2221,2020-03-14,Unknown,Rhode Island,,20,0
+2267,2020-03-14,Unknown,Virgin Islands,,1,0
+2422,2020-03-15,Unknown,Guam,,3,0
+2559,2020-03-15,Unknown,New Jersey,,1,0
+2574,2020-03-15,New York City,New York,,330,5
+2642,2020-03-15,Unknown,Puerto Rico,,5,0
+2643,2020-03-15,Unknown,Rhode Island,,20,0
+2694,2020-03-15,Unknown,Virgin Islands,,1,0
+2863,2020-03-16,Unknown,Guam,,3,0
+2929,2020-03-16,Unknown,Maine,,1,0
+2950,2020-03-16,Unknown,Massachusetts,,1,0
+3017,2020-03-16,Unknown,New Jersey,,1,0
+3033,2020-03-16,New York City,New York,,464,7
+3107,2020-03-16,Unknown,Puerto Rico,,5,0
+3108,2020-03-16,Unknown,Rhode Island,,21,0
+3166,2020-03-16,Unknown,Virgin Islands,,2,0
+3350,2020-03-17,Unknown,Guam,,3,0
+3429,2020-03-17,Unknown,Maine,,3,0
+3451,2020-03-17,Unknown,Massachusetts,,1,0
+3530,2020-03-17,Unknown,New Jersey,,1,0
+3549,2020-03-17,New York City,New York,,646,11
+3637,2020-03-17,Unknown,Puerto Rico,,5,0
+3638,2020-03-17,Unknown,Rhode Island,,23,0
+3702,2020-03-17,Unknown,Virgin Islands,,2,0
+3912,2020-03-18,Unknown,Guam,,8,0
+4003,2020-03-18,Unknown,Louisiana,,2,0
+4011,2020-03-18,Unknown,Maine,,3,0
+4034,2020-03-18,Unknown,Massachusetts,,4,0
+4126,2020-03-18,Unknown,New Jersey,,1,0
+4150,2020-03-18,New York City,New York,,1344,25
+4256,2020-03-18,Unknown,Puerto Rico,,5,0
+4257,2020-03-18,Unknown,Rhode Island,,33,0
+4334,2020-03-18,Unknown,Virgin Islands,,3,0
+4588,2020-03-19,Unknown,Guam,,12,0
+4680,2020-03-19,Unknown,Kentucky,,1,0
+4703,2020-03-19,Unknown,Louisiana,,3,0
+4713,2020-03-19,Unknown,Maine,,3,0
+4739,2020-03-19,Unknown,Massachusetts,,13,0
+4828,2020-03-19,Unknown,Nevada,,4,0
+4854,2020-03-19,Unknown,New Jersey,,1,0
+4879,2020-03-19,New York City,New York,,2477,31
+4998,2020-03-19,Unknown,Puerto Rico,,6,0
+4999,2020-03-19,Unknown,Rhode Island,,44,0
+5038,2020-03-19,Unknown,Tennessee,,2,0
+5090,2020-03-19,Unknown,Virgin Islands,,3,0
+5223,2020-03-20,Unknown,Arkansas,,19,0
+5385,2020-03-20,Unknown,Georgia,,6,0
+5388,2020-03-20,Unknown,Guam,,14,0
+5494,2020-03-20,Unknown,Kentucky,,1,0
+5521,2020-03-20,Unknown,Louisiana,,5,0
+5531,2020-03-20,Unknown,Maine,,3,0
+5558,2020-03-20,Unknown,Massachusetts,,18,0
+5641,2020-03-20,Kansas City,Missouri,,12,0
+5647,2020-03-20,Unknown,Missouri,,1,0
+5670,2020-03-20,Unknown,Nevada,,11,0
+5698,2020-03-20,Unknown,New Jersey,,3,0
+5728,2020-03-20,New York City,New York,,4419,54
+5871,2020-03-20,Unknown,Puerto Rico,,14,0
+5872,2020-03-20,Unknown,Rhode Island,,44,0
+5927,2020-03-20,Unknown,Tennessee,,2,0
+5986,2020-03-20,Unknown,Virgin Islands,,6,0
+6142,2020-03-21,Unknown,Arkansas,,21,0
+6319,2020-03-21,Unknown,Georgia,,27,0
+6322,2020-03-21,Unknown,Guam,,15,0
+6442,2020-03-21,Unknown,Kentucky,,5,0
+6476,2020-03-21,Unknown,Louisiana,,9,0
+6487,2020-03-21,Unknown,Maine,,3,0
+6518,2020-03-21,Unknown,Massachusetts,,26,0
+6570,2020-03-21,Unknown,Minnesota,,1,0
+6631,2020-03-21,Kansas City,Missouri,,13,0
+6637,2020-03-21,Unknown,Missouri,,1,0
+6662,2020-03-21,Unknown,Nevada,,11,0
+6691,2020-03-21,Unknown,New Jersey,,151,0
+6722,2020-03-21,New York City,New York,,6226,75
+6875,2020-03-21,Unknown,Puerto Rico,,21,1
+6876,2020-03-21,Unknown,Rhode Island,,66,0
+6944,2020-03-21,Unknown,Tennessee,,8,0
+7011,2020-03-21,Unknown,Virgin Islands,,6,0
+7176,2020-03-22,Unknown,Arkansas,,27,0
+7215,2020-03-22,Unknown,California,,1,0
+7246,2020-03-22,Unknown,Colorado,,1,0
+7304,2020-03-22,Unknown,Florida,,1,0
+7367,2020-03-22,Unknown,Georgia,,27,2
+7370,2020-03-22,Unknown,Guam,,27,1
+7516,2020-03-22,Unknown,Kentucky,,6,0
+7551,2020-03-22,Unknown,Louisiana,,11,0
+7562,2020-03-22,Unknown,Maine,,5,0
+7595,2020-03-22,Unknown,Massachusetts,,34,0
+7652,2020-03-22,Unknown,Minnesota,,1,0
+7720,2020-03-22,Kansas City,Missouri,,13,0
+7726,2020-03-22,Unknown,Missouri,,1,0
+7752,2020-03-22,Unknown,Nevada,,33,0
+7783,2020-03-22,Unknown,New Jersey,,221,0
+7817,2020-03-22,New York City,New York,,9065,119
+7995,2020-03-22,Unknown,Puerto Rico,,23,1
+7996,2020-03-22,Unknown,Rhode Island,,83,0
+8074,2020-03-22,Unknown,Tennessee,,28,0
+8141,2020-03-22,Unknown,Virgin Islands,,17,0
+8319,2020-03-23,Unknown,Arkansas,,61,0
+8358,2020-03-23,Unknown,California,,1,0
+8392,2020-03-23,Unknown,Colorado,,5,0
+8450,2020-03-23,Unknown,Florida,,1,0
+8520,2020-03-23,Unknown,Georgia,,46,2
+8524,2020-03-23,Unknown,Guam,,29,1
+8529,2020-03-23,Unknown,Hawaii,,5,0
+8564,2020-03-23,Unknown,Illinois,,58,0
+8679,2020-03-23,Unknown,Kentucky,,9,0
+8720,2020-03-23,Unknown,Louisiana,,12,0
+8732,2020-03-23,Unknown,Maine,,5,0
+8767,2020-03-23,Unknown,Massachusetts,,57,0
+8832,2020-03-23,Unknown,Minnesota,,1,0
+8908,2020-03-23,Kansas City,Missouri,,18,0
+8919,2020-03-23,Unknown,Missouri,,1,0
+8948,2020-03-23,Unknown,Nevada,,82,0
+8979,2020-03-23,Unknown,New Jersey,,416,0
+9015,2020-03-23,New York City,New York,,12329,155
+9206,2020-03-23,Unknown,Puerto Rico,,31,2
+9207,2020-03-23,Unknown,Rhode Island,,106,0
+9292,2020-03-23,Unknown,Tennessee,,109,0
+9358,2020-03-23,Unknown,Vermont,,23,0
+9362,2020-03-23,Unknown,Virgin Islands,,17,0
+9556,2020-03-24,Unknown,Arkansas,,61,0
+9600,2020-03-24,Unknown,California,,1,0
+9637,2020-03-24,Unknown,Colorado,,18,2
+9695,2020-03-24,Unknown,Florida,,1,0
+9781,2020-03-24,Unknown,Georgia,,79,6
+9785,2020-03-24,Unknown,Guam,,32,1
+9790,2020-03-24,Unknown,Hawaii,,20,0
+9828,2020-03-24,Unknown,Illinois,,58,0
+9967,2020-03-24,Unknown,Kentucky,,18,0
+10008,2020-03-24,Unknown,Louisiana,,12,1
+10021,2020-03-24,Unknown,Maine,,5,0
+10057,2020-03-24,Unknown,Massachusetts,,90,0
+10127,2020-03-24,Unknown,Minnesota,,1,0
+10209,2020-03-24,Kansas City,Missouri,,30,0
+10221,2020-03-24,Unknown,Missouri,,72,0
+10252,2020-03-24,Unknown,Nevada,,82,0
+10283,2020-03-24,Unknown,New Jersey,,645,7
+10322,2020-03-24,New York City,New York,,14943,230
+10531,2020-03-24,Unknown,Puerto Rico,,39,2
+10532,2020-03-24,Unknown,Rhode Island,,124,0
+10626,2020-03-24,Unknown,Tennessee,,109,0
+10703,2020-03-24,Unknown,Vermont,,23,5
+10707,2020-03-24,Unknown,Virgin Islands,,17,0
+10924,2020-03-25,Unknown,Arkansas,,61,0
+10970,2020-03-25,Unknown,California,,1,0
+11008,2020-03-25,Unknown,Colorado,,18,0
+11067,2020-03-25,Unknown,Florida,,1,0
+11160,2020-03-25,Unknown,Georgia,,160,14
+11167,2020-03-25,Unknown,Guam,,32,1
+11172,2020-03-25,Unknown,Hawaii,,5,0
+11218,2020-03-25,Unknown,Illinois,,58,0
+11367,2020-03-25,Unknown,Kentucky,,36,0
+11413,2020-03-25,Unknown,Louisiana,,12,1
+11427,2020-03-25,Unknown,Maine,,5,0
+11465,2020-03-25,Unknown,Massachusetts,,159,0
+11541,2020-03-25,Unknown,Minnesota,,1,0
+11627,2020-03-25,Kansas City,Missouri,,51,0
+11646,2020-03-25,Unknown,Missouri,,4,0
+11680,2020-03-25,Unknown,Nevada,,90,4
+11711,2020-03-25,Unknown,New Jersey,,933,7
+11754,2020-03-25,New York City,New York,,20061,330
+11993,2020-03-25,Unknown,Puerto Rico,,51,2
+11998,2020-03-25,Unknown,Rhode Island,,106,0
+12101,2020-03-25,Unknown,Tennessee,,109,1
+12211,2020-03-25,Unknown,Vermont,,23,0
+12215,2020-03-25,Unknown,Virgin Islands,,17,0
+12466,2020-03-26,Unknown,Arkansas,,61,1
+12512,2020-03-26,Unknown,California,,1,0
+12552,2020-03-26,Unknown,Colorado,,102,0
+12612,2020-03-26,Unknown,Florida,,1,0
+12711,2020-03-26,Unknown,Georgia,,178,23
+12718,2020-03-26,Unknown,Guam,,49,1
+12723,2020-03-26,Unknown,Hawaii,,5,0
+12740,2020-03-26,Unknown,Idaho,,1,0
+12773,2020-03-26,Unknown,Illinois,,58,0
+12940,2020-03-26,Unknown,Kentucky,,42,0
+12991,2020-03-26,Unknown,Louisiana,,13,1
+13007,2020-03-26,Unknown,Maine,,5,0
+13045,2020-03-26,Unknown,Massachusetts,,267,0
+13096,2020-03-26,Unknown,Michigan,,13,0
+13131,2020-03-26,Unknown,Minnesota,,1,1
+13225,2020-03-26,Kansas City,Missouri,,64,0
+13245,2020-03-26,Unknown,Missouri,,10,0
+13284,2020-03-26,Unknown,Nevada,,107,0
+13315,2020-03-26,Unknown,New Jersey,,1478,7
+13358,2020-03-26,New York City,New York,,23182,435
+13508,2020-03-26,Unknown,Ohio,,1,0
+13617,2020-03-26,Unknown,Puerto Rico,,64,2
+13622,2020-03-26,Unknown,Rhode Island,,106,0
+13730,2020-03-26,Unknown,Tennessee,,112,1
+13836,2020-03-26,Unknown,Utah,,5,0
+13850,2020-03-26,Unknown,Vermont,,23,2
+13854,2020-03-26,Unknown,Virgin Islands,,17,0
+14132,2020-03-27,Unknown,Arkansas,,61,1
+14180,2020-03-27,Unknown,California,,1,0
+14223,2020-03-27,Unknown,Colorado,,136,0
+14285,2020-03-27,Unknown,Florida,,1,0
+14387,2020-03-27,Unknown,Georgia,,217,5
+14395,2020-03-27,Unknown,Guam,,53,1
+14400,2020-03-27,Unknown,Hawaii,,5,0
+14418,2020-03-27,Unknown,Idaho,,1,0
+14454,2020-03-27,Unknown,Illinois,,58,0
+14649,2020-03-27,Unknown,Kentucky,,45,0
+14701,2020-03-27,Unknown,Louisiana,,16,1
+14718,2020-03-27,Unknown,Maine,,5,0
+14756,2020-03-27,Unknown,Massachusetts,,304,0
+14811,2020-03-27,Unknown,Michigan,,23,0
+14850,2020-03-27,Unknown,Minnesota,,1,1
+14918,2020-03-27,Unknown,Mississippi,,6,0
+14953,2020-03-27,Kansas City,Missouri,,78,0
+14976,2020-03-27,Unknown,Missouri,,4,0
+15018,2020-03-27,Unknown,Nevada,,91,0
+15049,2020-03-27,Unknown,New Jersey,,1984,7
+15094,2020-03-27,New York City,New York,,25509,560
+15365,2020-03-27,Unknown,Puerto Rico,,79,3
+15370,2020-03-27,Unknown,Rhode Island,,132,0
+15484,2020-03-27,Unknown,Tennessee,,172,4
+15603,2020-03-27,Unknown,Utah,,17,0
+15617,2020-03-27,Unknown,Vermont,,23,3
+15621,2020-03-27,Unknown,Virgin Islands,,19,0
+15915,2020-03-28,Unknown,Arkansas,,61,2
+15964,2020-03-28,Unknown,California,,1,0
+16009,2020-03-28,Unknown,Colorado,,167,0
+16072,2020-03-28,Unknown,Florida,,1,0
+16178,2020-03-28,Unknown,Georgia,,229,2
+16188,2020-03-28,Unknown,Guam,,57,1
+16193,2020-03-28,Unknown,Hawaii,,5,0
+16251,2020-03-28,Unknown,Illinois,,58,0
+16466,2020-03-28,Unknown,Kentucky,,60,0
+16521,2020-03-28,Unknown,Louisiana,,12,2
+16538,2020-03-28,Unknown,Maine,,5,0
+16576,2020-03-28,Unknown,Massachusetts,,358,0
+16632,2020-03-28,Unknown,Michigan,,47,0
+16672,2020-03-28,Unknown,Minnesota,,1,0
+16743,2020-03-28,Unknown,Mississippi,,6,0
+16778,2020-03-28,Kansas City,Missouri,,94,0
+16802,2020-03-28,Unknown,Missouri,,5,0
+16848,2020-03-28,Unknown,Nevada,,101,0
+16879,2020-03-28,Unknown,New Jersey,,2478,7
+16925,2020-03-28,New York City,New York,,30919,825
+17033,2020-03-28,Unknown,Northern Mariana Islands,,2,0
+17220,2020-03-28,Unknown,Puerto Rico,,100,3
+17225,2020-03-28,Unknown,Rhode Island,,168,2
+17351,2020-03-28,Unknown,Tennessee,,161,4
+17478,2020-03-28,Unknown,Utah,,17,1
+17492,2020-03-28,Unknown,Vermont,,23,5
+17496,2020-03-28,Unknown,Virgin Islands,,19,0
+17805,2020-03-29,Unknown,Arkansas,,61,3
+17855,2020-03-29,Unknown,California,,1,0
+17902,2020-03-29,Unknown,Colorado,,186,0
+17966,2020-03-29,Unknown,Florida,,1,0
+18076,2020-03-29,Unknown,Georgia,,228,2
+18086,2020-03-29,Unknown,Guam,,58,1
+18091,2020-03-29,Unknown,Hawaii,,10,0
+18154,2020-03-29,Unknown,Illinois,,58,0
+18380,2020-03-29,Unknown,Kentucky,,61,0
+18437,2020-03-29,Unknown,Louisiana,,12,1
+18455,2020-03-29,Unknown,Maine,,5,1
+18493,2020-03-29,Unknown,Massachusetts,,462,0
+18550,2020-03-29,Unknown,Michigan,,77,0
+18594,2020-03-29,Unknown,Minnesota,,1,0
+18702,2020-03-29,Kansas City,Missouri,,102,0
+18726,2020-03-29,Unknown,Missouri,,8,0
+18766,2020-03-29,Unknown,Nebraska,,2,0
+18775,2020-03-29,Unknown,Nevada,,269,0
+18806,2020-03-29,Unknown,New Jersey,,3020,21
+18853,2020-03-29,New York City,New York,,33983,991
+18969,2020-03-29,Unknown,Northern Mariana Islands,,2,0
+19162,2020-03-29,Unknown,Puerto Rico,,127,5
+19167,2020-03-29,Unknown,Rhode Island,,106,3
+19303,2020-03-29,Unknown,Tennessee,,190,4
+19439,2020-03-29,Unknown,Utah,,1,1
+19453,2020-03-29,Unknown,Vermont,,23,5
+19457,2020-03-29,Unknown,Virgin Islands,,23,0
+19783,2020-03-30,Unknown,Arkansas,,61,4
+19834,2020-03-30,Unknown,California,,1,0
+19883,2020-03-30,Unknown,Colorado,,160,0
+19894,2020-03-30,Unknown,Connecticut,,176,0
+19949,2020-03-30,Unknown,Florida,,1,0
+20073,2020-03-30,Unknown,Georgia,,114,2
+20084,2020-03-30,Unknown,Guam,,60,1
+20089,2020-03-30,Unknown,Hawaii,,8,0
+20161,2020-03-30,Unknown,Illinois,,58,0
+20397,2020-03-30,Unknown,Kentucky,,59,0
+20454,2020-03-30,Unknown,Louisiana,,14,1
+20472,2020-03-30,Unknown,Maine,,5,1
+20510,2020-03-30,Unknown,Massachusetts,,491,0
+20571,2020-03-30,Unknown,Michigan,,78,0
+20617,2020-03-30,Unknown,Minnesota,,1,0
+20729,2020-03-30,Kansas City,Missouri,,100,0
+20761,2020-03-30,Unknown,Missouri,,12,0
+20803,2020-03-30,Unknown,Nebraska,,2,0
+20813,2020-03-30,Unknown,Nevada,,150,0
+20844,2020-03-30,Unknown,New Jersey,,3840,7
+20892,2020-03-30,New York City,New York,,38375,1202
+21012,2020-03-30,Unknown,Northern Mariana Islands,,2,0
+21213,2020-03-30,Unknown,Puerto Rico,,174,6
+21218,2020-03-30,Unknown,Rhode Island,,106,4
+21360,2020-03-30,Unknown,Tennessee,,101,9
+21502,2020-03-30,Unknown,Utah,,8,3
+21516,2020-03-30,Unknown,Vermont,,23,5
+21520,2020-03-30,Unknown,Virgin Islands,,30,0
+21857,2020-03-31,Unknown,Arkansas,,61,5
+21909,2020-03-31,Unknown,California,,1,0
+21960,2020-03-31,Unknown,Colorado,,129,0
+21971,2020-03-31,Unknown,Connecticut,,77,2
+22028,2020-03-31,Unknown,Florida,,2,0
+22158,2020-03-31,Unknown,Georgia,,191,2
+22173,2020-03-31,Unknown,Guam,,139,2
+22178,2020-03-31,Unknown,Hawaii,,15,0
+22254,2020-03-31,Unknown,Illinois,,58,0
+22331,2020-03-31,Unknown,Indiana,,2,0
+22506,2020-03-31,Unknown,Kentucky,,9,0
+22565,2020-03-31,Unknown,Louisiana,,22,4
+22583,2020-03-31,Unknown,Maine,,6,0
+22621,2020-03-31,Unknown,Massachusetts,,335,0
+22685,2020-03-31,Unknown,Michigan,,93,0
+22735,2020-03-31,Unknown,Minnesota,,1,0
+22811,2020-03-31,Unknown,Mississippi,,4,0
+22850,2020-03-31,Kansas City,Missouri,,119,0
+22883,2020-03-31,Unknown,Missouri,,1,0
+22928,2020-03-31,Unknown,Nebraska,,2,0
+22938,2020-03-31,Unknown,Nevada,,103,0
+22969,2020-03-31,Unknown,New Jersey,,3683,7
+23017,2020-03-31,New York City,New York,,43518,1475
+23146,2020-03-31,Unknown,Northern Mariana Islands,,2,0
+23351,2020-03-31,Unknown,Puerto Rico,,239,8
+23356,2020-03-31,Unknown,Rhode Island,,179,8
+23500,2020-03-31,Unknown,Tennessee,,109,9
+23642,2020-03-31,Unknown,Utah,,19,3
+23656,2020-03-31,Unknown,Vermont,,23,6
+23660,2020-03-31,Unknown,Virgin Islands,,30,0
+24016,2020-04-01,Unknown,Arkansas,,61,5
+24068,2020-04-01,Unknown,California,,1,0
+24119,2020-04-01,Unknown,Colorado,,139,0
+24130,2020-04-01,Unknown,Connecticut,,185,2
+24191,2020-04-01,Unknown,Florida,,3,0
+24324,2020-04-01,Unknown,Georgia,,485,2
+24339,2020-04-01,Unknown,Guam,,147,3
+24344,2020-04-01,Unknown,Hawaii,,18,0
+24423,2020-04-01,Unknown,Illinois,,58,0
+24502,2020-04-01,Unknown,Indiana,,2,0
+24680,2020-04-01,Unknown,Kentucky,,9,0
+24739,2020-04-01,Unknown,Louisiana,,28,4
+24758,2020-04-01,Unknown,Maine,,7,0
+24797,2020-04-01,Unknown,Massachusetts,,335,0
+24862,2020-04-01,Unknown,Michigan,,161,2
+24914,2020-04-01,Unknown,Minnesota,,1,0
+24992,2020-04-01,Unknown,Mississippi,,4,0
+25035,2020-04-01,Kansas City,Missouri,,128,0
+25068,2020-04-01,Unknown,Missouri,,2,0
+25115,2020-04-01,Unknown,Nebraska,,3,0
+25125,2020-04-01,Unknown,Nevada,,131,0
+25156,2020-04-01,Unknown,New Jersey,,4512,7
+25207,2020-04-01,New York City,New York,,47914,1848
+25337,2020-04-01,Unknown,Northern Mariana Islands,,6,1
+25544,2020-04-01,Unknown,Puerto Rico,,286,11
+25549,2020-04-01,Unknown,Rhode Island,,179,8
+25699,2020-04-01,Unknown,Tennessee,,442,17
+25853,2020-04-01,Unknown,Utah,,19,3
+25867,2020-04-01,Unknown,Vermont,,23,9
+25871,2020-04-01,Unknown,Virgin Islands,,30,0
+26167,2020-04-02,Unknown,Alaska,,1,0
+26239,2020-04-02,Unknown,Arkansas,,10,1
+26292,2020-04-02,Unknown,California,,0,1
+26344,2020-04-02,Unknown,Colorado,,144,0
+26355,2020-04-02,Unknown,Connecticut,,174,1
+26416,2020-04-02,Unknown,Florida,,9,0
+26550,2020-04-02,Unknown,Georgia,,665,4
+26565,2020-04-02,Unknown,Guam,,152,3
+26570,2020-04-02,Unknown,Hawaii,,20,0
+26655,2020-04-02,Unknown,Illinois,,28,0
+26983,2020-04-02,Unknown,Louisiana,,38,1
+27002,2020-04-02,Unknown,Maine,,8,0
+27042,2020-04-02,Unknown,Massachusetts,,270,0
+27108,2020-04-02,Unknown,Michigan,,182,0
+27282,2020-04-02,Kansas City,Missouri,,139,1
+27316,2020-04-02,Unknown,Missouri,,3,0
+27367,2020-04-02,Unknown,Nebraska,,1,0
+27377,2020-04-02,Unknown,Nevada,,142,0
+27408,2020-04-02,Unknown,New Jersey,,4866,4
+27459,2020-04-02,New York City,New York,,52400,2152
+27595,2020-04-02,Unknown,Northern Mariana Islands,,8,1
+27810,2020-04-02,Unknown,Puerto Rico,,316,12
+27815,2020-04-02,Unknown,Rhode Island,,105,9
+27972,2020-04-02,Unknown,Tennessee,,103,0
+28135,2020-04-02,Unknown,Utah,,16,4
+28149,2020-04-02,Unknown,Vermont,,8,10
+28153,2020-04-02,Unknown,Virgin Islands,,37,0
+28473,2020-04-03,Unknown,Arizona,,0,4
+28533,2020-04-03,Unknown,Arkansas,,13,1
+28640,2020-04-03,Unknown,Colorado,,158,0
+28651,2020-04-03,Unknown,Connecticut,,218,1
+28713,2020-04-03,Unknown,Florida,,10,0
+28851,2020-04-03,Unknown,Georgia,,264,4
+28866,2020-04-03,Unknown,Guam,,154,4
+28871,2020-04-03,Unknown,Hawaii,,11,1
+28959,2020-04-03,Unknown,Illinois,,40,0
+29234,2020-04-03,Unknown,Kentucky,,15,0
+29294,2020-04-03,Unknown,Louisiana,,40,4
+29314,2020-04-03,Unknown,Maine,,11,0
+29355,2020-04-03,Unknown,Massachusetts,,213,0
+29422,2020-04-03,Unknown,Michigan,,215,1
+29475,2020-04-03,Unknown,Minnesota,,0,3
+29598,2020-04-03,Kansas City,Missouri,,153,1
+29634,2020-04-03,Unknown,Missouri,,3,0
+29727,2020-04-03,Unknown,New Jersey,,4805,4
+29749,2020-04-03,Unknown,New Mexico,,2,0
+29779,2020-04-03,New York City,New York,,57941,2648
+29803,2020-04-03,Unknown,New York,,37,608
+29921,2020-04-03,Unknown,Northern Mariana Islands,,8,1
+30135,2020-04-03,Unknown,Pennsylvania,,0,1
+30142,2020-04-03,Unknown,Puerto Rico,,378,15
+30147,2020-04-03,Unknown,Rhode Island,,159,7
+30304,2020-04-03,Unknown,Tennessee,,54,0
+30475,2020-04-03,Unknown,Utah,,0,3
+30489,2020-04-03,Unknown,Vermont,,6,10
+30493,2020-04-03,Unknown,Virgin Islands,,38,0
+30591,2020-04-03,Unknown,Virginia,,0,11
+30827,2020-04-04,Unknown,Arizona,,0,2
+30888,2020-04-04,Unknown,Arkansas,,12,1
+30996,2020-04-04,Unknown,Colorado,,211,0
+31007,2020-04-04,Unknown,Connecticut,,241,1
+31071,2020-04-04,Unknown,Florida,,10,0
+31209,2020-04-04,Unknown,Georgia,,88,4
+31225,2020-04-04,Unknown,Guam,,223,4
+31230,2020-04-04,Unknown,Hawaii,,8,1
+31323,2020-04-04,Unknown,Illinois,,16,0
+31610,2020-04-04,Unknown,Kentucky,,77,3
+31670,2020-04-04,Unknown,Louisiana,,31,0
+31690,2020-04-04,Unknown,Maine,,12,0
+31731,2020-04-04,Unknown,Massachusetts,,274,0
+31798,2020-04-04,Unknown,Michigan,,333,1
+31853,2020-04-04,Unknown,Minnesota,,2,3
+31976,2020-04-04,Kansas City,Missouri,,172,1
+32013,2020-04-04,Unknown,Missouri,,3,0
+32077,2020-04-04,Unknown,Nevada,,52,0
+32089,2020-04-04,Unknown,New Hampshire,,3,0
+32110,2020-04-04,Unknown,New Jersey,,3935,11
+32134,2020-04-04,Unknown,New Mexico,,2,0
+32164,2020-04-04,New York City,New York,,64274,3221
+32188,2020-04-04,Unknown,New York,,0,309
+32308,2020-04-04,Unknown,Northern Mariana Islands,,8,1
+32525,2020-04-04,Unknown,Pennsylvania,,0,1
+32533,2020-04-04,Unknown,Puerto Rico,,452,18
+32538,2020-04-04,Unknown,Rhode Island,,122,10
+32696,2020-04-04,Unknown,Tennessee,,63,0
+32873,2020-04-04,Unknown,Utah,,0,4
+32887,2020-04-04,Unknown,Vermont,,12,13
+32891,2020-04-04,Unknown,Virgin Islands,,42,0
+32991,2020-04-04,Unknown,Virginia,,18,17
+33231,2020-04-05,Unknown,Arizona,,0,9
+33293,2020-04-05,Unknown,Arkansas,,14,1
+33402,2020-04-05,Unknown,Colorado,,258,0
+33413,2020-04-05,Unknown,Connecticut,,222,1
+33477,2020-04-05,Unknown,Florida,,4,0
+33616,2020-04-05,Unknown,Georgia,,283,5
+33632,2020-04-05,Unknown,Guam,,265,4
+33637,2020-04-05,Unknown,Hawaii,,10,1
+33733,2020-04-05,Unknown,Illinois,,48,0
+34035,2020-04-05,Unknown,Kentucky,,9,7
+34095,2020-04-05,Unknown,Louisiana,,31,4
+34115,2020-04-05,Unknown,Maine,,11,0
+34156,2020-04-05,Unknown,Massachusetts,,215,0
+34223,2020-04-05,Unknown,Michigan,,306,0
+34280,2020-04-05,Unknown,Minnesota,,0,4
+34404,2020-04-05,Kansas City,Missouri,,175,1
+34507,2020-04-05,Unknown,Nevada,,52,0
+34519,2020-04-05,Unknown,New Hampshire,,6,0
+34540,2020-04-05,Unknown,New Jersey,,3821,11
+34593,2020-04-05,New York City,New York,,68726,3646
+34617,2020-04-05,Unknown,New York,,0,678
+34739,2020-04-05,Unknown,Northern Mariana Islands,,8,1
+34959,2020-04-05,Unknown,Pennsylvania,,0,1
+34967,2020-04-05,Unknown,Puerto Rico,,475,20
+34972,2020-04-05,Unknown,Rhode Island,,238,18
+35131,2020-04-05,Unknown,Tennessee,,81,0
+35309,2020-04-05,Unknown,Utah,,14,4
+35323,2020-04-05,Unknown,Vermont,,13,15
+35327,2020-04-05,Unknown,Virgin Islands,,42,0
+35427,2020-04-05,Unknown,Virginia,,18,17
+35669,2020-04-06,Unknown,Arizona,,0,10
+35735,2020-04-06,Unknown,Arkansas,,11,0
+35845,2020-04-06,Unknown,Colorado,,276,0
+35856,2020-04-06,Unknown,Connecticut,,264,0
+35921,2020-04-06,Unknown,Florida,,5,0
+36065,2020-04-06,Unknown,Georgia,,309,5
+36081,2020-04-06,Unknown,Guam,,266,4
+36086,2020-04-06,Unknown,Hawaii,,9,0
+36183,2020-04-06,Unknown,Illinois,,62,0
+36492,2020-04-06,Unknown,Kentucky,,0,7
+36552,2020-04-06,Unknown,Louisiana,,48,3
+36573,2020-04-06,Unknown,Maine,,11,0
+36614,2020-04-06,Unknown,Massachusetts,,246,2
+36682,2020-04-06,Unknown,Michigan,,367,1
+36866,2020-04-06,Kansas City,Missouri,,212,1
+36905,2020-04-06,Unknown,Missouri,,2,0
+36976,2020-04-06,Unknown,Nevada,,32,12
+37008,2020-04-06,Unknown,New Jersey,,3521,14
+37061,2020-04-06,New York City,New York,,73553,4857
+37085,2020-04-06,Unknown,New York,,2091,728
+37207,2020-04-06,Unknown,Northern Mariana Islands,,8,1
+37440,2020-04-06,Unknown,Puerto Rico,,513,21
+37445,2020-04-06,Unknown,Rhode Island,,332,20
+37523,2020-04-06,Unknown,South Dakota,,0,2
+37605,2020-04-06,Unknown,Tennessee,,69,2
+37785,2020-04-06,Unknown,Utah,,23,9
+37799,2020-04-06,Unknown,Vermont,,21,16
+37803,2020-04-06,Unknown,Virgin Islands,,43,1
+37906,2020-04-06,Unknown,Virginia,,0,18
+37949,2020-04-06,Unknown,Washington,,653,0
+38154,2020-04-07,Unknown,Arizona,,0,12
+38220,2020-04-07,Unknown,Arkansas,,11,0
+38330,2020-04-07,Unknown,Colorado,,249,0
+38341,2020-04-07,Unknown,Connecticut,,292,3
+38408,2020-04-07,Unknown,Florida,,2,0
+38553,2020-04-07,Unknown,Georgia,,441,6
+38569,2020-04-07,Unknown,Guam,,274,4
+38574,2020-04-07,Unknown,Hawaii,,7,0
+38676,2020-04-07,Unknown,Illinois,,34,0
+39055,2020-04-07,Unknown,Louisiana,,49,2
+39076,2020-04-07,Unknown,Maine,,9,0
+39117,2020-04-07,Unknown,Massachusetts,,229,3
+39186,2020-04-07,Unknown,Michigan,,405,0
+39374,2020-04-07,Kansas City,Missouri,,219,7
+39416,2020-04-07,Unknown,Missouri,,2,0
+39498,2020-04-07,Unknown,New Hampshire,,1,0
+39519,2020-04-07,Unknown,New Jersey,,2220,5
+39572,2020-04-07,New York City,New York,,78498,5631
+39719,2020-04-07,Unknown,Northern Mariana Islands,,8,2
+39958,2020-04-07,Unknown,Puerto Rico,,573,23
+39963,2020-04-07,Unknown,Rhode Island,,223,13
+40041,2020-04-07,Unknown,South Dakota,,0,4
+40309,2020-04-07,Unknown,Utah,,0,9
+40324,2020-04-07,Unknown,Vermont,,3,16
+40328,2020-04-07,Unknown,Virgin Islands,,45,1
+40436,2020-04-07,Unknown,Virginia,,0,26
+40479,2020-04-07,Unknown,Washington,,601,0
+40677,2020-04-08,Unknown,Alaska,,1,0
+40758,2020-04-08,Unknown,Arkansas,,13,0
+40868,2020-04-08,Unknown,Colorado,,238,0
+40879,2020-04-08,Unknown,Connecticut,,366,3
+40947,2020-04-08,Unknown,Florida,,2,0
+41092,2020-04-08,Unknown,Georgia,,871,9
+41108,2020-04-08,Unknown,Guam,,409,4
+41113,2020-04-08,Unknown,Hawaii,,7,0
+41217,2020-04-08,Unknown,Illinois,,61,0
+41539,2020-04-08,Unknown,Kentucky,,0,7
+41601,2020-04-08,Unknown,Louisiana,,49,2
+41622,2020-04-08,Unknown,Maine,,8,0
+41663,2020-04-08,Unknown,Massachusetts,,223,5
+41733,2020-04-08,Unknown,Michigan,,363,3
+41922,2020-04-08,Kansas City,Missouri,,249,7
+41964,2020-04-08,Unknown,Missouri,,1,0
+42037,2020-04-08,Unknown,Nevada,,53,6
+42049,2020-04-08,Unknown,New Hampshire,,1,0
+42070,2020-04-08,Unknown,New Jersey,,1362,4
+42123,2020-04-08,New York City,New York,,83673,6441
+42271,2020-04-08,Unknown,Northern Mariana Islands,,11,2
+42512,2020-04-08,Unknown,Puerto Rico,,620,24
+42517,2020-04-08,Unknown,Rhode Island,,297,15
+42596,2020-04-08,Unknown,South Dakota,,0,4
+42886,2020-04-08,Unknown,Vermont,,8,0
+42890,2020-04-08,Unknown,Virgin Islands,,45,1
+43040,2020-04-08,Unknown,Washington,,705,0
+43322,2020-04-09,Unknown,Arkansas,,14,0
+43434,2020-04-09,Unknown,Colorado,,233,0
+43445,2020-04-09,Unknown,Connecticut,,392,2
+43513,2020-04-09,Unknown,Florida,,2,0
+43658,2020-04-09,Unknown,Georgia,,951,8
+43674,2020-04-09,Unknown,Guam,,542,4
+43679,2020-04-09,Unknown,Hawaii,,3,0
+43785,2020-04-09,Unknown,Illinois,,68,1
+44108,2020-04-09,Unknown,Kentucky,,0,7
+44170,2020-04-09,Unknown,Louisiana,,51,2
+44191,2020-04-09,Unknown,Maine,,4,0
+44232,2020-04-09,Unknown,Massachusetts,,203,5
+44302,2020-04-09,Unknown,Michigan,,368,5
+44492,2020-04-09,Kansas City,Missouri,,257,8
+44535,2020-04-09,Unknown,Missouri,,1,0
+44612,2020-04-09,Unknown,Nevada,,20,0
+44645,2020-04-09,Unknown,New Jersey,,996,12
+44699,2020-04-09,New York City,New York,,89127,7249
+44849,2020-04-09,Unknown,Northern Mariana Islands,,11,2
+45091,2020-04-09,Unknown,Puerto Rico,,683,33
+45096,2020-04-09,Unknown,Rhode Island,,424,23
+45259,2020-04-09,Unknown,Tennessee,,0,8
+45458,2020-04-09,Unknown,Utah,,0,3
+45474,2020-04-09,Unknown,Vermont,,8,0
+45478,2020-04-09,Unknown,Virgin Islands,,46,1
+45588,2020-04-09,Unknown,Virginia,,0,40
+45631,2020-04-09,Unknown,Washington,,815,0
+45849,2020-04-10,Unknown,Arizona,,0,5
+45917,2020-04-10,Unknown,Arkansas,,16,0
+46029,2020-04-10,Unknown,Colorado,,145,1
+46040,2020-04-10,Unknown,Connecticut,,407,4
+46045,2020-04-10,Unknown,Delaware,,9,0
+46110,2020-04-10,Unknown,Florida,,2,0
+46255,2020-04-10,Unknown,Georgia,,1226,5
+46271,2020-04-10,Unknown,Guam,,577,4
+46276,2020-04-10,Unknown,Hawaii,,4,0
+46307,2020-04-10,Unknown,Idaho,,3,0
+46385,2020-04-10,Unknown,Illinois,,81,1
+46619,2020-04-10,Unknown,Kansas,,0,4
+46774,2020-04-10,Unknown,Louisiana,,54,2
+46795,2020-04-10,Unknown,Maine,,3,0
+46836,2020-04-10,Unknown,Massachusetts,,129,5
+46907,2020-04-10,Unknown,Michigan,,433,7
+47098,2020-04-10,Kansas City,Missouri,,283,8
+47141,2020-04-10,Unknown,Missouri,,1,0
+47254,2020-04-10,Unknown,New Jersey,,649,2
+47309,2020-04-10,New York City,New York,,94702,7981
+47457,2020-04-10,Unknown,North Dakota,,0,1
+47461,2020-04-10,Unknown,Northern Mariana Islands,,11,2
+47705,2020-04-10,Unknown,Puerto Rico,,725,39
+47710,2020-04-10,Unknown,Rhode Island,,712,29
+47874,2020-04-10,Unknown,Tennessee,,22,0
+48079,2020-04-10,Unknown,Utah,,0,7
+48095,2020-04-10,Unknown,Vermont,,26,1
+48099,2020-04-10,Unknown,Virgin Islands,,46,1
+48212,2020-04-10,Unknown,Virginia,,0,52
+48256,2020-04-10,Unknown,Washington,,627,0
+48477,2020-04-11,Unknown,Arizona,,0,5
+48545,2020-04-11,Unknown,Arkansas,,19,0
+48657,2020-04-11,Unknown,Colorado,,175,0
+48668,2020-04-11,Unknown,Connecticut,,456,5
+48673,2020-04-11,Unknown,Delaware,,13,0
+48738,2020-04-11,Unknown,Florida,,2,0
+48884,2020-04-11,Unknown,Georgia,,1300,4
+48900,2020-04-11,Unknown,Guam,,681,5
+48905,2020-04-11,Unknown,Hawaii,,3,0
+49015,2020-04-11,Unknown,Illinois,,85,0
+49253,2020-04-11,Unknown,Kansas,,0,4
+49413,2020-04-11,Unknown,Louisiana,,54,3
+49434,2020-04-11,Unknown,Maine,,3,0
+49475,2020-04-11,Unknown,Massachusetts,,225,5
+49548,2020-04-11,Unknown,Michigan,,474,15
+49612,2020-04-11,Unknown,Minnesota,,3,0
+49743,2020-04-11,Kansas City,Missouri,,298,8
+49786,2020-04-11,Unknown,Missouri,,1,0
+49871,2020-04-11,Unknown,Nevada,,0,3
+49884,2020-04-11,Unknown,New Hampshire,,1,0
+49905,2020-04-11,Unknown,New Jersey,,924,2
+49961,2020-04-11,New York City,New York,,100840,8734
+50113,2020-04-11,Unknown,Northern Mariana Islands,,11,2
+50359,2020-04-11,Unknown,Puerto Rico,,788,42
+50364,2020-04-11,Unknown,Rhode Island,,673,36
+50734,2020-04-11,Unknown,Utah,,22,7
+50750,2020-04-11,Unknown,Vermont,,11,0
+50754,2020-04-11,Unknown,Virgin Islands,,51,1
+50867,2020-04-11,Unknown,Virginia,,0,58
+50911,2020-04-11,Unknown,Washington,,583,0
+51136,2020-04-12,Unknown,Arizona,,0,1
+51204,2020-04-12,Unknown,Arkansas,,25,0
+51316,2020-04-12,Unknown,Colorado,,156,0
+51327,2020-04-12,Unknown,Connecticut,,501,4
+51396,2020-04-12,Unknown,Florida,,2,0
+51543,2020-04-12,Unknown,Georgia,,613,0
+51559,2020-04-12,Unknown,Guam,,716,5
+51564,2020-04-12,Unknown,Hawaii,,3,0
+51674,2020-04-12,Unknown,Illinois,,94,0
+51916,2020-04-12,Unknown,Kansas,,0,3
+52017,2020-04-12,Unknown,Kentucky,,24,0
+52080,2020-04-12,Unknown,Louisiana,,54,3
+52101,2020-04-12,Unknown,Maine,,3,0
+52142,2020-04-12,Unknown,Massachusetts,,373,5
+52215,2020-04-12,Unknown,Michigan,,480,20
+52282,2020-04-12,Unknown,Minnesota,,5,0
+52413,2020-04-12,Kansas City,Missouri,,308,8
+52456,2020-04-12,Unknown,Missouri,,1,0
+52554,2020-04-12,Unknown,New Hampshire,,1,0
+52575,2020-04-12,Unknown,New Jersey,,1274,2
+52631,2020-04-12,New York City,New York,,105939,9448
+52783,2020-04-12,Unknown,Northern Mariana Islands,,11,2
+53029,2020-04-12,Unknown,Puerto Rico,,897,44
+53034,2020-04-12,Unknown,Rhode Island,,989,43
+53406,2020-04-12,Unknown,Utah,,6,7
+53422,2020-04-12,Unknown,Vermont,,11,0
+53426,2020-04-12,Unknown,Virgin Islands,,51,1
+53539,2020-04-12,Unknown,Virginia,,0,68
+53583,2020-04-12,Unknown,Washington,,499,0
+53811,2020-04-13,Unknown,Arizona,,0,1
+53880,2020-04-13,Unknown,Arkansas,,42,0
+53992,2020-04-13,Unknown,Colorado,,145,0
+54003,2020-04-13,Unknown,Connecticut,,491,4
+54008,2020-04-13,Unknown,Delaware,,3,0
+54073,2020-04-13,Unknown,Florida,,1,0
+54220,2020-04-13,Unknown,Georgia,,560,0
+54236,2020-04-13,Unknown,Guam,,719,6
+54241,2020-04-13,Unknown,Hawaii,,3,0
+54352,2020-04-13,Unknown,Illinois,,65,0
+54695,2020-04-13,Unknown,Kentucky,,23,0
+54758,2020-04-13,Unknown,Louisiana,,56,0
+54779,2020-04-13,Unknown,Maine,,5,0
+54820,2020-04-13,Unknown,Massachusetts,,447,7
+54894,2020-04-13,Unknown,Michigan,,469,12
+54961,2020-04-13,Unknown,Minnesota,,34,0
+55092,2020-04-13,Kansas City,Missouri,,329,8
+55135,2020-04-13,Unknown,Missouri,,1,0
+55210,2020-04-13,Unknown,Nebraska,,1,0
+55235,2020-04-13,Unknown,New Hampshire,,1,0
+55256,2020-04-13,Unknown,New Jersey,,1203,2
+55312,2020-04-13,New York City,New York,,109706,10096
+55465,2020-04-13,Unknown,Northern Mariana Islands,,11,2
+55712,2020-04-13,Unknown,Puerto Rico,,903,45
+55717,2020-04-13,Unknown,Rhode Island,,1300,53
+56093,2020-04-13,Unknown,Utah,,44,7
+56109,2020-04-13,Unknown,Vermont,,8,0
+56113,2020-04-13,Unknown,Virgin Islands,,51,1
+56227,2020-04-13,Unknown,Virginia,,2,49
+56271,2020-04-13,Unknown,Washington,,329,0
+56500,2020-04-14,Unknown,Arizona,,0,1
+56569,2020-04-14,Unknown,Arkansas,,45,0
+56681,2020-04-14,Unknown,Colorado,,110,0
+56692,2020-04-14,Unknown,Connecticut,,533,4
+56697,2020-04-14,Unknown,Delaware,,11,0
+56762,2020-04-14,Unknown,Florida,,3,0
+56909,2020-04-14,Unknown,Georgia,,287,0
+56925,2020-04-14,Unknown,Guam,,721,6
+56930,2020-04-14,Unknown,Hawaii,,3,0
+57042,2020-04-14,Unknown,Illinois,,43,0
+57286,2020-04-14,Unknown,Kansas,,0,2
+57390,2020-04-14,Unknown,Kentucky,,15,0
+57453,2020-04-14,Unknown,Louisiana,,56,0
+57474,2020-04-14,Unknown,Maine,,2,0
+57515,2020-04-14,Unknown,Massachusetts,,506,7
+57589,2020-04-14,Unknown,Michigan,,543,13
+57656,2020-04-14,Unknown,Minnesota,,6,0
+57787,2020-04-14,Kansas City,Missouri,,346,12
+57830,2020-04-14,Unknown,Missouri,,1,0
+57918,2020-04-14,Unknown,Nevada,,0,9
+57931,2020-04-14,Unknown,New Hampshire,,1,0
+57952,2020-04-14,Unknown,New Jersey,,1702,2
+58008,2020-04-14,New York City,New York,,113632,10857
+58162,2020-04-14,Unknown,Northern Mariana Islands,,13,2
+58411,2020-04-14,Unknown,Puerto Rico,,923,45
+58416,2020-04-14,Unknown,Rhode Island,,756,60
+58795,2020-04-14,Unknown,Utah,,0,8
+58811,2020-04-14,Unknown,Vermont,,8,0
+58815,2020-04-14,Unknown,Virgin Islands,,51,1
+58929,2020-04-14,Unknown,Virginia,,0,32
+58973,2020-04-14,Unknown,Washington,,220,0
+59273,2020-04-15,Unknown,Arkansas,,50,0
+59385,2020-04-15,Unknown,Colorado,,111,1
+59396,2020-04-15,Unknown,Connecticut,,537,2
+59401,2020-04-15,Unknown,Delaware,,17,0
+59612,2020-04-15,Unknown,Georgia,,136,0
+59628,2020-04-15,Unknown,Guam,,750,6
+59633,2020-04-15,Unknown,Hawaii,,1,0
+59746,2020-04-15,Unknown,Illinois,,45,0
+59991,2020-04-15,Unknown,Kansas,,0,2
+60095,2020-04-15,Unknown,Kentucky,,77,1
+60158,2020-04-15,Unknown,Louisiana,,56,1
+60179,2020-04-15,Unknown,Maine,,2,0
+60204,2020-04-15,Unknown,Maryland,,14,99
+60221,2020-04-15,Unknown,Massachusetts,,572,7
+60296,2020-04-15,Unknown,Michigan,,584,17
+60364,2020-04-15,Unknown,Minnesota,,5,0
+60497,2020-04-15,Kansas City,Missouri,,371,12
+60541,2020-04-15,Unknown,Missouri,,1,0
+60631,2020-04-15,Unknown,Nevada,,0,6
+60664,2020-04-15,Unknown,New Jersey,,1189,2
+60720,2020-04-15,New York City,New York,,121653,11566
+60871,2020-04-15,Unknown,North Dakota,,1,0
+60875,2020-04-15,Unknown,Northern Mariana Islands,,13,2
+61125,2020-04-15,Unknown,Puerto Rico,,974,51
+61130,2020-04-15,Unknown,Rhode Island,,756,67
+61513,2020-04-15,Unknown,Utah,,0,9
+61529,2020-04-15,Unknown,Vermont,,12,0
+61533,2020-04-15,Unknown,Virgin Islands,,51,1
+61647,2020-04-15,Unknown,Virginia,,0,59
+61691,2020-04-15,Unknown,Washington,,77,0
+61992,2020-04-16,Unknown,Arkansas,,44,0
+62104,2020-04-16,Unknown,Colorado,,96,1
+62115,2020-04-16,Unknown,Connecticut,,534,2
+62120,2020-04-16,Unknown,Delaware,,22,0
+62185,2020-04-16,Unknown,Florida,,3,0
+62332,2020-04-16,Unknown,Georgia,,212,0
+62348,2020-04-16,Unknown,Guam,,790,6
+62353,2020-04-16,Unknown,Hawaii,,5,0
+62467,2020-04-16,Unknown,Illinois,,55,0
+62815,2020-04-16,Unknown,Kentucky,,76,1
+62878,2020-04-16,Unknown,Louisiana,,56,1
+62899,2020-04-16,Unknown,Maine,,2,0
+62924,2020-04-16,Unknown,Maryland,,13,104
+62941,2020-04-16,Unknown,Massachusetts,,638,9
+63017,2020-04-16,Unknown,Michigan,,601,16
+63086,2020-04-16,Unknown,Minnesota,,5,0
+63219,2020-04-16,Kansas City,Missouri,,386,12
+63263,2020-04-16,Unknown,Missouri,,2,0
+63355,2020-04-16,Unknown,Nevada,,16,4
+63368,2020-04-16,Unknown,New Hampshire,,1,0
+63389,2020-04-16,Unknown,New Jersey,,1048,3
+63445,2020-04-16,New York City,New York,,126623,12109
+63596,2020-04-16,Unknown,North Dakota,,1,0
+63600,2020-04-16,Unknown,Northern Mariana Islands,,13,2
+63850,2020-04-16,Unknown,Puerto Rico,,1043,56
+63855,2020-04-16,Unknown,Rhode Island,,840,98
+64244,2020-04-16,Unknown,Utah,,3,1
+64260,2020-04-16,Unknown,Vermont,,9,0
+64264,2020-04-16,Unknown,Virgin Islands,,51,1
+64379,2020-04-16,Unknown,Virginia,,0,71
+64423,2020-04-16,Unknown,Washington,,154,0
+64724,2020-04-17,Unknown,Arkansas,,43,0
+64836,2020-04-17,Unknown,Colorado,,78,1
+64847,2020-04-17,Unknown,Connecticut,,495,2
+64852,2020-04-17,Unknown,Delaware,,28,0
+64917,2020-04-17,Unknown,Florida,,4,0
+65064,2020-04-17,Unknown,Georgia,,264,0
+65080,2020-04-17,Unknown,Guam,,796,6
+65199,2020-04-17,Unknown,Illinois,,71,0
+65374,2020-04-17,Unknown,Iowa,,1,0
+65448,2020-04-17,Unknown,Kansas,,0,1
+65553,2020-04-17,Unknown,Kentucky,,25,0
+65616,2020-04-17,Unknown,Louisiana,,56,1
+65637,2020-04-17,Unknown,Maine,,2,0
+65662,2020-04-17,Unknown,Maryland,,11,99
+65679,2020-04-17,Unknown,Massachusetts,,760,12
+65755,2020-04-17,Unknown,Michigan,,604,19
+65825,2020-04-17,Unknown,Minnesota,,1,0
+65958,2020-04-17,Kansas City,Missouri,,401,13
+66002,2020-04-17,Unknown,Missouri,,4,0
+66096,2020-04-17,Unknown,Nevada,,80,0
+66109,2020-04-17,Unknown,New Hampshire,,2,0
+66130,2020-04-17,Unknown,New Jersey,,719,3
+66186,2020-04-17,New York City,New York,,131003,12283
+66210,2020-04-17,Unknown,New York,,0,630
+66338,2020-04-17,Unknown,North Dakota,,1,0
+66342,2020-04-17,Unknown,Northern Mariana Islands,,14,2
+66595,2020-04-17,Unknown,Puerto Rico,,1068,58
+66600,2020-04-17,Unknown,Rhode Island,,832,98
+66991,2020-04-17,Unknown,Utah,,2,1
+67007,2020-04-17,Unknown,Vermont,,10,0
+67011,2020-04-17,Unknown,Virgin Islands,,51,2
+67126,2020-04-17,Unknown,Virginia,,0,94
+67170,2020-04-17,Unknown,Washington,,174,0
+67471,2020-04-18,Unknown,Arkansas,,46,0
+67583,2020-04-18,Unknown,Colorado,,80,1
+67594,2020-04-18,Unknown,Connecticut,,525,3
+67599,2020-04-18,Unknown,Delaware,,30,0
+67664,2020-04-18,Unknown,Florida,,3,0
+67811,2020-04-18,Unknown,Georgia,,245,0
+67827,2020-04-18,Unknown,Guam,,805,6
+67947,2020-04-18,Unknown,Illinois,,83,0
+68122,2020-04-18,Unknown,Iowa,,1,0
+68196,2020-04-18,Unknown,Kansas,,0,1
+68301,2020-04-18,Unknown,Kentucky,,35,0
+68364,2020-04-18,Unknown,Louisiana,,57,1
+68385,2020-04-18,Unknown,Maine,,1,0
+68410,2020-04-18,Unknown,Maryland,,11,107
+68427,2020-04-18,Unknown,Massachusetts,,733,13
+68504,2020-04-18,Unknown,Michigan,,643,22
+68575,2020-04-18,Unknown,Minnesota,,4,0
+68708,2020-04-18,Kansas City,Missouri,,412,13
+68754,2020-04-18,Unknown,Missouri,,2,0
+68850,2020-04-18,Unknown,Nevada,,6,3
+68863,2020-04-18,Unknown,New Hampshire,,0,1
+68884,2020-04-18,Unknown,New Jersey,,748,2
+68941,2020-04-18,New York City,New York,,135052,12411
+68965,2020-04-18,Unknown,New York,,0,1170
+69096,2020-04-18,Unknown,Northern Mariana Islands,,14,2
+69350,2020-04-18,Unknown,Puerto Rico,,1118,60
+69355,2020-04-18,Unknown,Rhode Island,,815,117
+69750,2020-04-18,Unknown,Utah,,0,1
+69766,2020-04-18,Unknown,Vermont,,10,0
+69770,2020-04-18,Unknown,Virgin Islands,,53,3
+69885,2020-04-18,Unknown,Virginia,,1,114
+69929,2020-04-18,Unknown,Washington,,233,0
+70230,2020-04-19,Unknown,Arkansas,,46,0
+70342,2020-04-19,Unknown,Colorado,,114,1
+70353,2020-04-19,Unknown,Connecticut,,529,4
+70358,2020-04-19,Unknown,Delaware,,30,0
+70423,2020-04-19,Unknown,Florida,,3,0
+70570,2020-04-19,Unknown,Georgia,,257,0
+70586,2020-04-19,Unknown,Guam,,808,6
+70706,2020-04-19,Unknown,Illinois,,114,0
+71061,2020-04-19,Unknown,Kentucky,,38,0
+71124,2020-04-19,Unknown,Louisiana,,58,1
+71146,2020-04-19,Unknown,Maine,,2,0
+71171,2020-04-19,Unknown,Maryland,,10,79
+71188,2020-04-19,Unknown,Massachusetts,,815,13
+71265,2020-04-19,Unknown,Michigan,,636,21
+71338,2020-04-19,Unknown,Minnesota,,4,0
+71472,2020-04-19,Kansas City,Missouri,,418,13
+71518,2020-04-19,Unknown,Missouri,,1,0
+71601,2020-04-19,Unknown,Nebraska,,7,0
+71627,2020-04-19,Unknown,New Hampshire,,2,1
+71648,2020-04-19,Unknown,New Jersey,,585,0
+71705,2020-04-19,New York City,New York,,138370,13632
+71860,2020-04-19,Unknown,Northern Mariana Islands,,14,2
+72114,2020-04-19,Unknown,Puerto Rico,,1213,41
+72119,2020-04-19,Unknown,Rhode Island,,715,130
+72517,2020-04-19,Unknown,Utah,,0,1
+72533,2020-04-19,Unknown,Vermont,,10,0
+72537,2020-04-19,Unknown,Virgin Islands,,53,3
+72652,2020-04-19,Unknown,Virginia,,2,89
+72696,2020-04-19,Unknown,Washington,,1,0
+72997,2020-04-20,Unknown,Arkansas,,43,0
+73109,2020-04-20,Unknown,Colorado,,126,1
+73120,2020-04-20,Unknown,Connecticut,,514,4
+73125,2020-04-20,Unknown,Delaware,,31,0
+73190,2020-04-20,Unknown,Florida,,3,0
+73337,2020-04-20,Unknown,Georgia,,296,2
+73353,2020-04-20,Unknown,Guam,,811,6
+73474,2020-04-20,Unknown,Illinois,,129,0
+73831,2020-04-20,Unknown,Kentucky,,35,0
+73894,2020-04-20,Unknown,Louisiana,,59,1
+73916,2020-04-20,Unknown,Maine,,1,0
+73941,2020-04-20,Unknown,Maryland,,10,87
+73958,2020-04-20,Unknown,Massachusetts,,855,9
+74035,2020-04-20,Unknown,Michigan,,644,23
+74109,2020-04-20,Unknown,Minnesota,,4,0
+74243,2020-04-20,Kansas City,Missouri,,420,13
+74289,2020-04-20,Unknown,Missouri,,1,0
+74373,2020-04-20,Unknown,Nebraska,,10,0
+74387,2020-04-20,Unknown,Nevada,,34,4
+74400,2020-04-20,Unknown,New Hampshire,,4,1
+74421,2020-04-20,Unknown,New Jersey,,660,1
+74478,2020-04-20,New York City,New York,,140881,14074
+74633,2020-04-20,Unknown,Northern Mariana Islands,,14,2
+74887,2020-04-20,Unknown,Puerto Rico,,1252,42
+74892,2020-04-20,Unknown,Rhode Island,,861,135
+75291,2020-04-20,Unknown,Utah,,0,1
+75307,2020-04-20,Unknown,Vermont,,11,0
+75311,2020-04-20,Unknown,Virgin Islands,,54,3
+75426,2020-04-20,Unknown,Virginia,,2,90
+75770,2020-04-21,Unknown,Arkansas,,95,0
+75882,2020-04-21,Unknown,Colorado,,105,1
+75893,2020-04-21,Unknown,Connecticut,,503,4
+75898,2020-04-21,Unknown,Delaware,,30,0
+75963,2020-04-21,Unknown,Florida,,4,0
+76110,2020-04-21,Unknown,Georgia,,483,0
+76126,2020-04-21,Unknown,Guam,,852,6
+76248,2020-04-21,Unknown,Illinois,,191,0
+76426,2020-04-21,Unknown,Iowa,,3,2
+76671,2020-04-21,Unknown,Louisiana,,59,2
+76693,2020-04-21,Unknown,Maine,,1,0
+76718,2020-04-21,Unknown,Maryland,,12,113
+76735,2020-04-21,Unknown,Massachusetts,,929,8
+76812,2020-04-21,Unknown,Michigan,,698,22
+76887,2020-04-21,Unknown,Minnesota,,4,0
+77021,2020-04-21,Kansas City,Missouri,,438,13
+77150,2020-04-21,Unknown,Nebraska,,6,0
+77165,2020-04-21,Unknown,Nevada,,10,0
+77178,2020-04-21,Unknown,New Hampshire,,15,1
+77199,2020-04-21,Unknown,New Jersey,,599,0
+77256,2020-04-21,New York City,New York,,143547,14513
+77411,2020-04-21,Unknown,Northern Mariana Islands,,14,2
+77666,2020-04-21,Unknown,Puerto Rico,,915,43
+77671,2020-04-21,Unknown,Rhode Island,,1000,151
+78070,2020-04-21,Unknown,Utah,,0,2
+78086,2020-04-21,Unknown,Vermont,,3,0
+78090,2020-04-21,Unknown,Virgin Islands,,54,3
+78550,2020-04-22,Unknown,Arkansas,,113,0
+78662,2020-04-22,Unknown,Colorado,,95,0
+78673,2020-04-22,Unknown,Connecticut,,503,7
+78678,2020-04-22,Unknown,Delaware,,28,0
+78743,2020-04-22,Unknown,Florida,,0,34
+78890,2020-04-22,Unknown,Georgia,,576,0
+78906,2020-04-22,Unknown,Guam,,911,6
+79028,2020-04-22,Unknown,Illinois,,191,0
+79206,2020-04-22,Unknown,Iowa,,3,7
+79390,2020-04-22,Unknown,Kentucky,,70,0
+79453,2020-04-22,Unknown,Louisiana,,60,1
+79475,2020-04-22,Unknown,Maine,,2,0
+79500,2020-04-22,Unknown,Maryland,,8,102
+79517,2020-04-22,Unknown,Massachusetts,,854,9
+79594,2020-04-22,Unknown,Michigan,,715,25
+79669,2020-04-22,Unknown,Minnesota,,4,0
+79804,2020-04-22,Kansas City,Missouri,,448,13
+79851,2020-04-22,Unknown,Missouri,,1,1
+79936,2020-04-22,Unknown,Nebraska,,6,0
+79951,2020-04-22,Unknown,Nevada,,10,11
+79964,2020-04-22,Unknown,New Hampshire,,15,1
+79985,2020-04-22,Unknown,New Jersey,,591,2
+80013,2020-04-22,Unknown,New Mexico,,1,0
+80043,2020-04-22,New York City,New York,,146787,14959
+80199,2020-04-22,Unknown,Northern Mariana Islands,,14,2
+80454,2020-04-22,Unknown,Puerto Rico,,915,46
+80459,2020-04-22,Unknown,Rhode Island,,1000,161
+80860,2020-04-22,Unknown,Utah,,0,2
+80876,2020-04-22,Unknown,Vermont,,3,0
+80880,2020-04-22,Unknown,Virgin Islands,,54,3
+81342,2020-04-23,Unknown,Arkansas,,127,0
+81398,2020-04-23,Unknown,California,,3,0
+81455,2020-04-23,Unknown,Colorado,,108,0
+81466,2020-04-23,Unknown,Connecticut,,522,6
+81471,2020-04-23,Unknown,Delaware,,3,0
+81536,2020-04-23,Unknown,Florida,,8,0
+81683,2020-04-23,Unknown,Georgia,,361,0
+81699,2020-04-23,Unknown,Guam,,979,6
+81821,2020-04-23,Unknown,Illinois,,191,0
+81999,2020-04-23,Unknown,Iowa,,3,7
+82250,2020-04-23,Unknown,Louisiana,,62,0
+82296,2020-04-23,Unknown,Maryland,,5,102
+82313,2020-04-23,Unknown,Massachusetts,,737,10
+82390,2020-04-23,Unknown,Michigan,,829,28
+82465,2020-04-23,Unknown,Minnesota,,4,0
+82600,2020-04-23,Kansas City,Missouri,,461,14
+82647,2020-04-23,Unknown,Missouri,,1,0
+82734,2020-04-23,Unknown,Nebraska,,6,1
+82749,2020-04-23,Unknown,Nevada,,1,5
+82762,2020-04-23,Unknown,New Hampshire,,11,1
+82783,2020-04-23,Unknown,New Jersey,,1108,2
+82841,2020-04-23,New York City,New York,,150327,15361
+82997,2020-04-23,Unknown,Northern Mariana Islands,,14,2
+83252,2020-04-23,Unknown,Puerto Rico,,1230,69
+83257,2020-04-23,Unknown,Rhode Island,,1000,169
+83660,2020-04-23,Unknown,Utah,,0,1
+83676,2020-04-23,Unknown,Vermont,,3,0
+83680,2020-04-23,Unknown,Virgin Islands,,54,3
+84142,2020-04-24,Unknown,Arkansas,,182,0
+84254,2020-04-24,Unknown,Colorado,,103,0
+84265,2020-04-24,Unknown,Connecticut,,507,2
+84270,2020-04-24,Unknown,Delaware,,4,0
+84481,2020-04-24,Unknown,Georgia,,447,0
+84497,2020-04-24,Unknown,Guam,,997,6
+84619,2020-04-24,Unknown,Illinois,,218,0
+84797,2020-04-24,Unknown,Iowa,,0,1
+84988,2020-04-24,Unknown,Kentucky,,19,0
+85051,2020-04-24,Unknown,Louisiana,,63,0
+85097,2020-04-24,Unknown,Maryland,,9,101
+85114,2020-04-24,Unknown,Massachusetts,,791,12
+85191,2020-04-24,Unknown,Michigan,,1050,29
+85266,2020-04-24,Unknown,Minnesota,,6,0
+85401,2020-04-24,Kansas City,Missouri,,472,15
+85448,2020-04-24,Unknown,Missouri,,2,0
+85550,2020-04-24,Unknown,Nevada,,43,5
+85563,2020-04-24,Unknown,New Hampshire,,3,1
+85584,2020-04-24,Unknown,New Jersey,,532,0
+85642,2020-04-24,New York City,New York,,155081,15754
+85798,2020-04-24,Unknown,Northern Mariana Islands,,14,2
+86053,2020-04-24,Unknown,Puerto Rico,,1276,77
+86058,2020-04-24,Unknown,Rhode Island,,1132,182
+86464,2020-04-24,Unknown,Utah,,1,1
+86480,2020-04-24,Unknown,Vermont,,3,0
+86484,2020-04-24,Unknown,Virgin Islands,,54,3
+86947,2020-04-25,Unknown,Arkansas,,202,0
+87059,2020-04-25,Unknown,Colorado,,131,2
+87070,2020-04-25,Unknown,Connecticut,,521,2
+87075,2020-04-25,Unknown,Delaware,,3,0
+87140,2020-04-25,Unknown,Florida,,1,0
+87287,2020-04-25,Unknown,Georgia,,608,1
+87303,2020-04-25,Unknown,Guam,,997,6
+87426,2020-04-25,Unknown,Illinois,,274,0
+87794,2020-04-25,Unknown,Kentucky,,35,5
+87857,2020-04-25,Unknown,Louisiana,,63,0
+87879,2020-04-25,Unknown,Maine,,2,0
+87904,2020-04-25,Unknown,Maryland,,9,113
+87921,2020-04-25,Unknown,Massachusetts,,753,13
+87998,2020-04-25,Unknown,Michigan,,1102,33
+88073,2020-04-25,Unknown,Minnesota,,5,0
+88208,2020-04-25,Kansas City,Missouri,,486,15
+88255,2020-04-25,Unknown,Missouri,,2,0
+88358,2020-04-25,Unknown,Nevada,,16,0
+88371,2020-04-25,Unknown,New Hampshire,,6,1
+88392,2020-04-25,Unknown,New Jersey,,557,0
+88451,2020-04-25,New York City,New York,,159851,16146
+88609,2020-04-25,Unknown,Northern Mariana Islands,,14,2
+88864,2020-04-25,Unknown,Puerto Rico,,1307,83
+88869,2020-04-25,Unknown,Rhode Island,,1198,96
+89276,2020-04-25,Unknown,Utah,,0,1
+89292,2020-04-25,Unknown,Vermont,,5,0
+89296,2020-04-25,Unknown,Virgin Islands,,55,3
+89761,2020-04-26,Unknown,Arkansas,,216,0
+89873,2020-04-26,Unknown,Colorado,,172,0
+89884,2020-04-26,Unknown,Connecticut,,522,0
+89889,2020-04-26,Unknown,Delaware,,9,0
+90100,2020-04-26,Unknown,Georgia,,622,0
+90116,2020-04-26,Unknown,Guam,,997,6
+90239,2020-04-26,Unknown,Illinois,,308,0
+90607,2020-04-26,Unknown,Kentucky,,13,0
+90670,2020-04-26,Unknown,Louisiana,,64,0
+90692,2020-04-26,Unknown,Maine,,2,0
+90717,2020-04-26,Unknown,Maryland,,13,134
+90734,2020-04-26,Unknown,Massachusetts,,807,14
+90811,2020-04-26,Unknown,Michigan,,1115,34
+90886,2020-04-26,Unknown,Minnesota,,7,0
+91021,2020-04-26,Kansas City,Missouri,,493,15
+91183,2020-04-26,Unknown,New Hampshire,,5,1
+91204,2020-04-26,Unknown,New Jersey,,681,0
+91263,2020-04-26,New York City,New York,,163106,16486
+91422,2020-04-26,Unknown,Northern Mariana Islands,,14,2
+91677,2020-04-26,Unknown,Puerto Rico,,1371,84
+91682,2020-04-26,Unknown,Rhode Island,,1109,111
+92090,2020-04-26,Unknown,Utah,,0,1
+92106,2020-04-26,Unknown,Vermont,,5,0
+92110,2020-04-26,Unknown,Virgin Islands,,57,4
+92576,2020-04-27,Unknown,Arkansas,,203,0
+92632,2020-04-27,Unknown,California,,3,0
+92689,2020-04-27,Unknown,Colorado,,101,2
+92700,2020-04-27,Unknown,Connecticut,,484,7
+92705,2020-04-27,Unknown,Delaware,,11,0
+92770,2020-04-27,Unknown,Florida,,1,0
+92917,2020-04-27,Unknown,Georgia,,600,2
+92933,2020-04-27,Unknown,Guam,,1113,6
+93056,2020-04-27,Unknown,Illinois,,338,0
+93235,2020-04-27,Unknown,Iowa,,7,8
+93426,2020-04-27,Unknown,Kentucky,,11,0
+93489,2020-04-27,Unknown,Louisiana,,64,0
+93511,2020-04-27,Unknown,Maine,,2,0
+93536,2020-04-27,Unknown,Maryland,,16,87
+93553,2020-04-27,Unknown,Massachusetts,,795,8
+93630,2020-04-27,Unknown,Michigan,,1134,39
+93705,2020-04-27,Unknown,Minnesota,,5,0
+93840,2020-04-27,Kansas City,Missouri,,500,15
+93992,2020-04-27,Unknown,Nevada,,0,12
+94005,2020-04-27,Unknown,New Hampshire,,11,1
+94026,2020-04-27,Unknown,New Jersey,,818,0
+94056,2020-04-27,Unknown,New Mexico,,0,5
+94086,2020-04-27,New York City,New York,,165463,16821
+94246,2020-04-27,Unknown,Northern Mariana Islands,,14,2
+94502,2020-04-27,Unknown,Puerto Rico,,1388,84
+94507,2020-04-27,Unknown,Rhode Island,,1378,118
+94917,2020-04-27,Unknown,Utah,,0,2
+94933,2020-04-27,Unknown,Vermont,,3,0
+94937,2020-04-27,Unknown,Virgin Islands,,59,4
+95405,2020-04-28,Unknown,Arkansas,,220,0
+95518,2020-04-28,Unknown,Colorado,,88,1
+95529,2020-04-28,Unknown,Connecticut,,491,2
+95534,2020-04-28,Unknown,Delaware,,32,0
+95599,2020-04-28,Unknown,Florida,,4,0
+95746,2020-04-28,Unknown,Georgia,,268,0
+95762,2020-04-28,Unknown,Guam,,1114,6
+95885,2020-04-28,Unknown,Illinois,,335,0
+96064,2020-04-28,Unknown,Iowa,,13,0
+96258,2020-04-28,Unknown,Kentucky,,28,0
+96321,2020-04-28,Unknown,Louisiana,,61,0
+96343,2020-04-28,Unknown,Maine,,1,0
+96368,2020-04-28,Unknown,Maryland,,13,106
+96385,2020-04-28,Unknown,Massachusetts,,625,5
+96462,2020-04-28,Unknown,Michigan,,1167,41
+96537,2020-04-28,Unknown,Minnesota,,6,0
+96673,2020-04-28,Kansas City,Missouri,,511,16
+96825,2020-04-28,Unknown,Nevada,,0,5
+96838,2020-04-28,Unknown,New Hampshire,,7,1
+96859,2020-04-28,Unknown,New Jersey,,718,0
+96889,2020-04-28,Unknown,New Mexico,,0,5
+96919,2020-04-28,New York City,New York,,167487,17206
+97080,2020-04-28,Unknown,Northern Mariana Islands,,14,2
+97338,2020-04-28,Unknown,Puerto Rico,,1400,86
+97343,2020-04-28,Unknown,Rhode Island,,1267,124
+97756,2020-04-28,Unknown,Utah,,0,2
+97772,2020-04-28,Unknown,Vermont,,3,0
+97776,2020-04-28,Unknown,Virgin Islands,,59,4
+97895,2020-04-28,Unknown,Virginia,,2,0
+98246,2020-04-29,Unknown,Arkansas,,167,0
+98359,2020-04-29,Unknown,Colorado,,67,1
+98370,2020-04-29,Unknown,Connecticut,,507,1
+98375,2020-04-29,Unknown,Delaware,,26,0
+98440,2020-04-29,Unknown,Florida,,7,0
+98602,2020-04-29,Unknown,Guam,,1114,6
+98725,2020-04-29,Unknown,Illinois,,354,0
+98905,2020-04-29,Unknown,Iowa,,20,0
+99100,2020-04-29,Unknown,Kentucky,,31,0
+99163,2020-04-29,Unknown,Louisiana,,61,0
+99185,2020-04-29,Unknown,Maine,,2,0
+99210,2020-04-29,Unknown,Maryland,,13,79
+99227,2020-04-29,Unknown,Massachusetts,,457,5
+99304,2020-04-29,Unknown,Michigan,,1350,42
+99379,2020-04-29,Unknown,Minnesota,,7,0
+99515,2020-04-29,Kansas City,Missouri,,520,16
+99668,2020-04-29,Unknown,Nevada,,0,6
+99681,2020-04-29,Unknown,New Hampshire,,4,1
+99702,2020-04-29,Unknown,New Jersey,,617,0
+99762,2020-04-29,New York City,New York,,170124,17597
+99925,2020-04-29,Unknown,Northern Mariana Islands,,14,2
+100183,2020-04-29,Unknown,Puerto Rico,,1465,86
+100188,2020-04-29,Unknown,Rhode Island,,1065,104
+100602,2020-04-29,Unknown,Utah,,0,2
+100618,2020-04-29,Unknown,Vermont,,3,0
+100622,2020-04-29,Unknown,Virgin Islands,,66,4
+100741,2020-04-29,Unknown,Virginia,,2,0
+101092,2020-04-30,Unknown,Arkansas,,168,0
+101205,2020-04-30,Unknown,Colorado,,81,1
+101216,2020-04-30,Unknown,Connecticut,,462,2
+101221,2020-04-30,Unknown,Delaware,,25,0
+101286,2020-04-30,Unknown,Florida,,7,0
+101433,2020-04-30,Unknown,Georgia,,395,0
+101449,2020-04-30,Unknown,Guam,,1115,6
+101572,2020-04-30,Unknown,Illinois,,378,0
+101752,2020-04-30,Unknown,Iowa,,24,0
+101948,2020-04-30,Unknown,Kentucky,,31,0
+102011,2020-04-30,Unknown,Louisiana,,61,0
+102033,2020-04-30,Unknown,Maine,,1,0
+102058,2020-04-30,Unknown,Maryland,,10,75
+102075,2020-04-30,Unknown,Massachusetts,,415,5
+102152,2020-04-30,Unknown,Michigan,,1542,44
+102227,2020-04-30,Unknown,Minnesota,,9,0
+102363,2020-04-30,Kansas City,Missouri,,545,16
+102517,2020-04-30,Unknown,Nevada,,0,6
+102530,2020-04-30,Unknown,New Hampshire,,3,0
+102551,2020-04-30,Unknown,New Jersey,,478,0
+102611,2020-04-30,New York City,New York,,172784,17809
+102774,2020-04-30,Unknown,Northern Mariana Islands,,14,2
+103032,2020-04-30,Unknown,Puerto Rico,,1537,92
+103037,2020-04-30,Unknown,Rhode Island,,1087,119
+103453,2020-04-30,Unknown,Utah,,11,2
+103469,2020-04-30,Unknown,Vermont,,3,0
+103473,2020-04-30,Unknown,Virgin Islands,,66,4
+103592,2020-04-30,Unknown,Virginia,,2,0
+103943,2020-05-01,Unknown,Arkansas,,160,0
+104056,2020-05-01,Unknown,Colorado,,94,0
+104067,2020-05-01,Unknown,Connecticut,,371,2
+104072,2020-05-01,Unknown,Delaware,,24,0
+104137,2020-05-01,Unknown,Florida,,8,0
+104284,2020-05-01,Unknown,Georgia,,647,0
+104300,2020-05-01,Unknown,Guam,,1115,6
+104424,2020-05-01,Unknown,Illinois,,363,0
+104607,2020-05-01,Unknown,Iowa,,63,0
+104805,2020-05-01,Unknown,Kentucky,,38,0
+104868,2020-05-01,Unknown,Louisiana,,63,0
+104914,2020-05-01,Unknown,Maryland,,9,100
+104931,2020-05-01,Unknown,Massachusetts,,425,6
+105008,2020-05-01,Unknown,Michigan,,1666,45
+105084,2020-05-01,Unknown,Minnesota,,13,1
+105220,2020-05-01,Kansas City,Missouri,,578,16
+105359,2020-05-01,Unknown,Nebraska,,26,1
+105375,2020-05-01,Unknown,Nevada,,0,10
+105388,2020-05-01,Unknown,New Hampshire,,15,0
+105409,2020-05-01,Unknown,New Jersey,,583,0
+105469,2020-05-01,New York City,New York,,174931,17931
+105633,2020-05-01,Unknown,Northern Mariana Islands,,14,2
+105891,2020-05-01,Unknown,Puerto Rico,,1573,94
+105896,2020-05-01,Unknown,Rhode Island,,1104,132
+106313,2020-05-01,Unknown,Utah,,0,1
+106329,2020-05-01,Unknown,Vermont,,3,0
+106333,2020-05-01,Unknown,Virgin Islands,,66,4
+106452,2020-05-01,Unknown,Virginia,,2,0
+106804,2020-05-02,Unknown,Arkansas,,178,0
+106917,2020-05-02,Unknown,Colorado,,119,0
+106928,2020-05-02,Unknown,Connecticut,,371,2
+106933,2020-05-02,Unknown,Delaware,,22,0
+106998,2020-05-02,Unknown,Florida,,9,0
+107145,2020-05-02,Unknown,Georgia,,652,0
+107161,2020-05-02,Unknown,Guam,,1117,6
+107285,2020-05-02,Unknown,Illinois,,278,0
+107468,2020-05-02,Unknown,Iowa,,95,0
+107728,2020-05-02,Unknown,Louisiana,,63,0
+107774,2020-05-02,Unknown,Maryland,,8,72
+107791,2020-05-02,Unknown,Massachusetts,,377,5
+107868,2020-05-02,Unknown,Michigan,,1934,44
+107945,2020-05-02,Unknown,Minnesota,,14,1
+108081,2020-05-02,Kansas City,Missouri,,597,16
+108128,2020-05-02,Unknown,Missouri,,3,0
+108237,2020-05-02,Unknown,Nevada,,0,4
+108250,2020-05-02,Unknown,New Hampshire,,26,0
+108271,2020-05-02,Unknown,New Jersey,,676,0
+108302,2020-05-02,Unknown,New Mexico,,0,1
+108332,2020-05-02,New York City,New York,,177490,18021
+108496,2020-05-02,Unknown,Northern Mariana Islands,,14,2
+108754,2020-05-02,Unknown,Puerto Rico,,1755,95
+108759,2020-05-02,Unknown,Rhode Island,,1142,149
+109178,2020-05-02,Unknown,Utah,,0,2
+109194,2020-05-02,Unknown,Vermont,,3,0
+109198,2020-05-02,Unknown,Virgin Islands,,66,4
+109317,2020-05-02,Unknown,Virginia,,2,0
+109669,2020-05-03,Unknown,Arkansas,,174,0
+109782,2020-05-03,Unknown,Colorado,,134,0
+109793,2020-05-03,Unknown,Connecticut,,312,1
+109798,2020-05-03,Unknown,Delaware,,23,0
+109863,2020-05-03,Unknown,Florida,,12,0
+110011,2020-05-03,Unknown,Georgia,,694,0
+110027,2020-05-03,Unknown,Guam,,1118,6
+110151,2020-05-03,Unknown,Illinois,,257,0
+110335,2020-05-03,Unknown,Iowa,,124,0
+110595,2020-05-03,Unknown,Louisiana,,63,0
+110641,2020-05-03,Unknown,Maryland,,10,56
+110658,2020-05-03,Unknown,Massachusetts,,981,7
+110735,2020-05-03,Unknown,Michigan,,1949,44
+110812,2020-05-03,Unknown,Minnesota,,17,1
+110948,2020-05-03,Kansas City,Missouri,,609,16
+111106,2020-05-03,Unknown,Nevada,,0,5
+111119,2020-05-03,Unknown,New Hampshire,,19,0
+111140,2020-05-03,Unknown,New Jersey,,641,0
+111171,2020-05-03,Unknown,New Mexico,,0,1
+111201,2020-05-03,New York City,New York,,179728,18451
+111366,2020-05-03,Unknown,Northern Mariana Islands,,14,2
+111624,2020-05-03,Unknown,Puerto Rico,,1806,97
+111629,2020-05-03,Unknown,Rhode Island,,1086,1
+112048,2020-05-03,Unknown,Utah,,8,2
+112064,2020-05-03,Unknown,Vermont,,4,0
+112068,2020-05-03,Unknown,Virgin Islands,,66,4
+112187,2020-05-03,Unknown,Virginia,,2,0
+112540,2020-05-04,Unknown,Arkansas,,163,0
+112653,2020-05-04,Unknown,Colorado,,130,0
+112664,2020-05-04,Unknown,Connecticut,,363,3
+112669,2020-05-04,Unknown,Delaware,,24,0
+112734,2020-05-04,Unknown,Florida,,12,0
+112882,2020-05-04,Unknown,Georgia,,703,3
+112898,2020-05-04,Unknown,Guam,,1118,6
+113022,2020-05-04,Unknown,Illinois,,277,0
+113206,2020-05-04,Unknown,Iowa,,95,0
+113468,2020-05-04,Unknown,Louisiana,,63,0
+113490,2020-05-04,Unknown,Maine,,2,0
+113515,2020-05-04,Unknown,Maryland,,10,65
+113532,2020-05-04,Unknown,Massachusetts,,662,7
+113609,2020-05-04,Unknown,Michigan,,1976,48
+113686,2020-05-04,Unknown,Minnesota,,16,1
+113822,2020-05-04,Kansas City,Missouri,,659,16
+113966,2020-05-04,Unknown,Nebraska,,0,1
+113982,2020-05-04,Unknown,Nevada,,0,2
+113995,2020-05-04,Unknown,New Hampshire,,15,0
+114016,2020-05-04,Unknown,New Jersey,,647,0
+114047,2020-05-04,Unknown,New Mexico,,0,6
+114077,2020-05-04,New York City,New York,,181034,18580
+114242,2020-05-04,Unknown,Northern Mariana Islands,,14,2
+114501,2020-05-04,Unknown,Puerto Rico,,1875,97
+114506,2020-05-04,Unknown,Rhode Island,,1133,22
+114926,2020-05-04,Unknown,Utah,,0,2
+114942,2020-05-04,Unknown,Vermont,,4,0
+114946,2020-05-04,Unknown,Virgin Islands,,66,4
+115065,2020-05-04,Unknown,Virginia,,2,0
+115418,2020-05-05,Unknown,Arkansas,,163,0
+115531,2020-05-05,Unknown,Colorado,,81,1
+115542,2020-05-05,Unknown,Connecticut,,368,2
+115547,2020-05-05,Unknown,Delaware,,25,0
+115612,2020-05-05,Unknown,Florida,,14,0
+115760,2020-05-05,Unknown,Georgia,,617,0
+115776,2020-05-05,Unknown,Guam,,1118,6
+115900,2020-05-05,Unknown,Illinois,,236,0
+116283,2020-05-05,Unknown,Kentucky,,21,0
+116346,2020-05-05,Unknown,Louisiana,,63,0
+116392,2020-05-05,Unknown,Maryland,,7,78
+116409,2020-05-05,Unknown,Massachusetts,,594,7
+116486,2020-05-05,Unknown,Michigan,,2009,51
+116564,2020-05-05,Unknown,Minnesota,,20,1
+116700,2020-05-05,Kansas City,Missouri,,683,16
+116859,2020-05-05,Unknown,Nevada,,0,8
+116872,2020-05-05,Unknown,New Hampshire,,15,0
+116893,2020-05-05,Unknown,New Jersey,,550,0
+116953,2020-05-05,New York City,New York,,182318,18719
+117119,2020-05-05,Unknown,Northern Mariana Islands,,14,2
+117378,2020-05-05,Unknown,Puerto Rico,,1924,99
+117383,2020-05-05,Unknown,Rhode Island,,1414,36
+117806,2020-05-05,Unknown,Utah,,0,3
+117822,2020-05-05,Unknown,Vermont,,4,0
+117826,2020-05-05,Unknown,Virgin Islands,,66,4
+117945,2020-05-05,Unknown,Virginia,,2,0
+118298,2020-05-06,Unknown,Arkansas,,145,0
+118412,2020-05-06,Unknown,Colorado,,54,1
+118423,2020-05-06,Unknown,Connecticut,,305,2
+118428,2020-05-06,Unknown,Delaware,,36,0
+118493,2020-05-06,Unknown,Florida,,31,0
+118641,2020-05-06,Unknown,Georgia,,529,0
+118657,2020-05-06,Unknown,Guam,,1118,6
+118781,2020-05-06,Unknown,Illinois,,105,0
+118965,2020-05-06,Unknown,Iowa,,13,0
+119165,2020-05-06,Unknown,Kentucky,,0,1
+119228,2020-05-06,Unknown,Louisiana,,63,1
+119274,2020-05-06,Unknown,Maryland,,6,78
+119291,2020-05-06,Unknown,Massachusetts,,326,3
+119368,2020-05-06,Unknown,Michigan,,2041,50
+119446,2020-05-06,Unknown,Minnesota,,9,0
+119582,2020-05-06,Kansas City,Missouri,,706,16
+119742,2020-05-06,Unknown,Nevada,,0,5
+119755,2020-05-06,Unknown,New Hampshire,,20,0
+119776,2020-05-06,Unknown,New Jersey,,594,0
+119836,2020-05-06,New York City,New York,,183770,18993
+119860,2020-05-06,Unknown,New York,,0,236
+120003,2020-05-06,Unknown,Northern Mariana Islands,,15,2
+120263,2020-05-06,Unknown,Puerto Rico,,1968,99
+120268,2020-05-06,Unknown,Rhode Island,,1686,51
+120693,2020-05-06,Unknown,Utah,,0,3
+120709,2020-05-06,Unknown,Vermont,,4,0
+120713,2020-05-06,Unknown,Virgin Islands,,66,4
+120832,2020-05-06,Unknown,Virginia,,2,0
+121188,2020-05-07,Unknown,Arkansas,,153,0
+121245,2020-05-07,Unknown,California,,2,0
+121305,2020-05-07,Unknown,Colorado,,46,1
+121316,2020-05-07,Unknown,Connecticut,,285,2
+121321,2020-05-07,Unknown,Delaware,,30,0
+121386,2020-05-07,Unknown,Florida,,33,0
+121535,2020-05-07,Unknown,Georgia,,852,0
+121551,2020-05-07,Unknown,Guam,,1118,6
+121675,2020-05-07,Unknown,Illinois,,102,0
+121859,2020-05-07,Unknown,Iowa,,8,0
+122060,2020-05-07,Unknown,Kentucky,,3,1
+122123,2020-05-07,Unknown,Louisiana,,63,1
+122145,2020-05-07,Unknown,Maine,,2,0
+122170,2020-05-07,Unknown,Maryland,,8,95
+122187,2020-05-07,Unknown,Massachusetts,,328,3
+122264,2020-05-07,Unknown,Michigan,,2172,53
+122343,2020-05-07,Unknown,Minnesota,,18,0
+122479,2020-05-07,Kansas City,Missouri,,723,16
+122624,2020-05-07,Unknown,Nebraska,,37,2
+122640,2020-05-07,Unknown,Nevada,,0,4
+122653,2020-05-07,Unknown,New Hampshire,,21,0
+122674,2020-05-07,Unknown,New Jersey,,552,0
+122734,2020-05-07,New York City,New York,,185653,19141
+122902,2020-05-07,Unknown,Northern Mariana Islands,,15,2
+123162,2020-05-07,Unknown,Puerto Rico,,2031,102
+123167,2020-05-07,Unknown,Rhode Island,,2011,69
+123348,2020-05-07,Unknown,Tennessee,,77,0
+123595,2020-05-07,Unknown,Utah,,1,3
+123611,2020-05-07,Unknown,Vermont,,4,0
+123615,2020-05-07,Unknown,Virgin Islands,,66,4
+123734,2020-05-07,Unknown,Virginia,,2,0
+124090,2020-05-08,Unknown,Arkansas,,154,0
+124147,2020-05-08,Unknown,California,,2,0
+124207,2020-05-08,Unknown,Colorado,,32,1
+124218,2020-05-08,Unknown,Connecticut,,302,3
+124223,2020-05-08,Unknown,Delaware,,28,0
+124288,2020-05-08,Unknown,Florida,,33,0
+124437,2020-05-08,Unknown,Georgia,,853,0
+124453,2020-05-08,Unknown,Guam,,1120,6
+124578,2020-05-08,Unknown,Illinois,,48,0
+124764,2020-05-08,Unknown,Iowa,,17,0
+125027,2020-05-08,Unknown,Louisiana,,63,1
+125049,2020-05-08,Unknown,Maine,,6,0
+125074,2020-05-08,Unknown,Maryland,,10,99
+125091,2020-05-08,Unknown,Massachusetts,,297,3
+125168,2020-05-08,Unknown,Michigan,,2304,53
+125247,2020-05-08,Unknown,Minnesota,,30,0
+125383,2020-05-08,Kansas City,Missouri,,739,16
+125528,2020-05-08,Unknown,Nebraska,,3,0
+125545,2020-05-08,Unknown,Nevada,,0,3
+125558,2020-05-08,Unknown,New Hampshire,,28,0
+125579,2020-05-08,Unknown,New Jersey,,553,1
+125639,2020-05-08,New York City,New York,,187157,19210
+125807,2020-05-08,Unknown,Northern Mariana Islands,,15,2
+126067,2020-05-08,Unknown,Puerto Rico,,2156,107
+126072,2020-05-08,Unknown,Rhode Island,,2260,80
+126253,2020-05-08,Unknown,Tennessee,,71,0
+126502,2020-05-08,Unknown,Utah,,2,3
+126518,2020-05-08,Unknown,Vermont,,4,0
+126522,2020-05-08,Unknown,Virgin Islands,,68,4
+126641,2020-05-08,Unknown,Virginia,,2,0
+126997,2020-05-09,Unknown,Arkansas,,154,0
+127054,2020-05-09,Unknown,California,,2,0
+127114,2020-05-09,Unknown,Colorado,,71,1
+127125,2020-05-09,Unknown,Connecticut,,246,3
+127130,2020-05-09,Unknown,Delaware,,27,0
+127195,2020-05-09,Unknown,Florida,,49,0
+127344,2020-05-09,Unknown,Georgia,,750,0
+127360,2020-05-09,Unknown,Guam,,1120,6
+127485,2020-05-09,Unknown,Illinois,,73,0
+127671,2020-05-09,Unknown,Iowa,,3,0
+127935,2020-05-09,Unknown,Louisiana,,64,1
+127957,2020-05-09,Unknown,Maine,,1,0
+127982,2020-05-09,Unknown,Maryland,,7,101
+127999,2020-05-09,Unknown,Massachusetts,,288,3
+128076,2020-05-09,Unknown,Michigan,,2258,53
+128155,2020-05-09,Unknown,Minnesota,,16,0
+128291,2020-05-09,Kansas City,Missouri,,752,16
+128438,2020-05-09,Unknown,Nebraska,,21,2
+128455,2020-05-09,Unknown,Nevada,,0,5
+128468,2020-05-09,Unknown,New Hampshire,,32,0
+128489,2020-05-09,Unknown,New Jersey,,557,0
+128549,2020-05-09,New York City,New York,,188663,19324
+128717,2020-05-09,Unknown,Northern Mariana Islands,,16,2
+128977,2020-05-09,Unknown,Puerto Rico,,2173,108
+128982,2020-05-09,Unknown,Rhode Island,,2470,99
+129163,2020-05-09,Unknown,Tennessee,,71,0
+129412,2020-05-09,Unknown,Utah,,17,2
+129428,2020-05-09,Unknown,Vermont,,4,0
+129432,2020-05-09,Unknown,Virgin Islands,,69,4
+129552,2020-05-09,Unknown,Virginia,,2,0
+129908,2020-05-10,Unknown,Arkansas,,127,0
+130026,2020-05-10,Unknown,Colorado,,114,1
+130037,2020-05-10,Unknown,Connecticut,,300,3
+130042,2020-05-10,Unknown,Delaware,,41,0
+130107,2020-05-10,Unknown,Florida,,50,0
+130256,2020-05-10,Unknown,Georgia,,1004,2
+130272,2020-05-10,Unknown,Guam,,1120,6
+130397,2020-05-10,Unknown,Illinois,,84,0
+130846,2020-05-10,Unknown,Louisiana,,64,1
+130868,2020-05-10,Unknown,Maine,,3,0
+130893,2020-05-10,Unknown,Maryland,,8,91
+130910,2020-05-10,Unknown,Massachusetts,,303,5
+130987,2020-05-10,Unknown,Michigan,,2265,55
+131066,2020-05-10,Unknown,Minnesota,,17,0
+131202,2020-05-10,Kansas City,Missouri,,767,16
+131349,2020-05-10,Unknown,Nebraska,,0,2
+131378,2020-05-10,Unknown,New Hampshire,,28,0
+131399,2020-05-10,Unknown,New Jersey,,591,0
+131459,2020-05-10,New York City,New York,,189656,19436
+131627,2020-05-10,Unknown,Northern Mariana Islands,,16,2
+131887,2020-05-10,Unknown,Puerto Rico,,2198,111
+131892,2020-05-10,Unknown,Rhode Island,,2755,103
+132074,2020-05-10,Unknown,Tennessee,,75,0
+132323,2020-05-10,Unknown,Utah,,11,3
+132339,2020-05-10,Unknown,Vermont,,4,0
+132343,2020-05-10,Unknown,Virgin Islands,,69,4
+132463,2020-05-10,Unknown,Virginia,,2,0
+132819,2020-05-11,Unknown,Arkansas,,131,0
+132937,2020-05-11,Unknown,Colorado,,67,2
+132948,2020-05-11,Unknown,Connecticut,,273,3
+132953,2020-05-11,Unknown,Delaware,,40,0
+133018,2020-05-11,Unknown,Florida,,50,0
+133167,2020-05-11,Unknown,Georgia,,914,2
+133183,2020-05-11,Unknown,Guam,,1120,6
+133493,2020-05-11,Unknown,Iowa,,5,0
+133757,2020-05-11,Unknown,Louisiana,,64,2
+133779,2020-05-11,Unknown,Maine,,6,0
+133804,2020-05-11,Unknown,Maryland,,10,106
+133821,2020-05-11,Unknown,Massachusetts,,287,5
+133898,2020-05-11,Unknown,Michigan,,2263,58
+133977,2020-05-11,Unknown,Minnesota,,25,0
+134113,2020-05-11,Kansas City,Missouri,,783,16
+134276,2020-05-11,Unknown,Nevada,,8,6
+134289,2020-05-11,Unknown,New Hampshire,,31,0
+134310,2020-05-11,Unknown,New Jersey,,729,0
+134370,2020-05-11,New York City,New York,,190546,19563
+134538,2020-05-11,Unknown,Northern Mariana Islands,,19,2
+134798,2020-05-11,Unknown,Puerto Rico,,2256,113
+134803,2020-05-11,Unknown,Rhode Island,,1158,5
+134985,2020-05-11,Unknown,Tennessee,,78,0
+135249,2020-05-11,Unknown,Vermont,,4,0
+135253,2020-05-11,Unknown,Virgin Islands,,69,5
+135373,2020-05-11,Unknown,Virginia,,2,0
+135729,2020-05-12,Unknown,Arkansas,,137,0
+135847,2020-05-12,Unknown,Colorado,,47,2
+135858,2020-05-12,Unknown,Connecticut,,263,3
+135863,2020-05-12,Unknown,Delaware,,36,1
+135928,2020-05-12,Unknown,Florida,,57,0
+136077,2020-05-12,Unknown,Georgia,,1135,0
+136093,2020-05-12,Unknown,Guam,,1121,6
+136404,2020-05-12,Unknown,Iowa,,6,0
+136668,2020-05-12,Unknown,Louisiana,,64,1
+136690,2020-05-12,Unknown,Maine,,6,0
+136715,2020-05-12,Unknown,Maryland,,12,109
+136732,2020-05-12,Unknown,Massachusetts,,273,4
+136809,2020-05-12,Unknown,Michigan,,2266,60
+136888,2020-05-12,Unknown,Minnesota,,30,0
+137024,2020-05-12,Kansas City,Missouri,,791,16
+137187,2020-05-12,Unknown,Nevada,,34,7
+137200,2020-05-12,Unknown,New Hampshire,,26,0
+137221,2020-05-12,Unknown,New Jersey,,704,0
+137281,2020-05-12,New York City,New York,,191320,19736
+137449,2020-05-12,Unknown,Northern Mariana Islands,,19,2
+137709,2020-05-12,Unknown,Puerto Rico,,2299,114
+137714,2020-05-12,Unknown,Rhode Island,,1198,19
+137896,2020-05-12,Unknown,Tennessee,,80,0
+138145,2020-05-12,Unknown,Utah,,0,2
+138161,2020-05-12,Unknown,Vermont,,4,0
+138165,2020-05-12,Unknown,Virgin Islands,,69,6
+138285,2020-05-12,Unknown,Virginia,,2,0
+138641,2020-05-13,Unknown,Arkansas,,140,0
+138759,2020-05-13,Unknown,Colorado,,52,2
+138770,2020-05-13,Unknown,Connecticut,,250,5
+138775,2020-05-13,Unknown,Delaware,,36,1
+138840,2020-05-13,Unknown,Florida,,88,0
+138989,2020-05-13,Unknown,Georgia,,1284,0
+139005,2020-05-13,Unknown,Guam,,1121,6
+139318,2020-05-13,Unknown,Iowa,,5,0
+139520,2020-05-13,Unknown,Kentucky,,66,0
+139583,2020-05-13,Unknown,Louisiana,,64,0
+139605,2020-05-13,Unknown,Maine,,6,0
+139630,2020-05-13,Unknown,Maryland,,11,92
+139647,2020-05-13,Unknown,Massachusetts,,264,4
+139724,2020-05-13,Unknown,Michigan,,2269,61
+139803,2020-05-13,Unknown,Minnesota,,453,24
+139939,2020-05-13,Kansas City,Missouri,,808,16
+140087,2020-05-13,Unknown,Nebraska,,42,3
+140104,2020-05-13,Unknown,Nevada,,0,6
+140117,2020-05-13,Unknown,New Hampshire,,26,0
+140138,2020-05-13,Unknown,New Jersey,,662,0
+140198,2020-05-13,New York City,New York,,192394,19815
+140366,2020-05-13,Unknown,Northern Mariana Islands,,19,2
+140555,2020-05-13,Unknown,Oregon,,52,0
+140627,2020-05-13,Unknown,Puerto Rico,,2329,115
+140632,2020-05-13,Unknown,Rhode Island,,1046,37
+140814,2020-05-13,Unknown,Tennessee,,81,0
+141063,2020-05-13,Unknown,Utah,,0,3
+141079,2020-05-13,Unknown,Vermont,,4,0
+141083,2020-05-13,Unknown,Virgin Islands,,69,6
+141203,2020-05-13,Unknown,Virginia,,2,0
+141559,2020-05-14,Unknown,Arkansas,,135,0
+141677,2020-05-14,Unknown,Colorado,,46,0
+141688,2020-05-14,Unknown,Connecticut,,235,3
+141693,2020-05-14,Unknown,Delaware,,45,1
+141758,2020-05-14,Unknown,Florida,,76,0
+141907,2020-05-14,Unknown,Georgia,,1363,0
+141923,2020-05-14,Unknown,Guam,,1121,6
+142236,2020-05-14,Unknown,Iowa,,8,0
+142500,2020-05-14,Unknown,Louisiana,,65,0
+142522,2020-05-14,Unknown,Maine,,2,0
+142547,2020-05-14,Unknown,Maryland,,9,95
+142564,2020-05-14,Unknown,Massachusetts,,300,3
+142641,2020-05-14,Unknown,Michigan,,2321,60
+142720,2020-05-14,Unknown,Minnesota,,21,9
+142856,2020-05-14,Kansas City,Missouri,,838,17
+143004,2020-05-14,Unknown,Nebraska,,79,0
+143021,2020-05-14,Unknown,Nevada,,0,5
+143034,2020-05-14,Unknown,New Hampshire,,34,0
+143055,2020-05-14,Unknown,New Jersey,,802,0
+143115,2020-05-14,New York City,New York,,193663,19904
+143283,2020-05-14,Unknown,Northern Mariana Islands,,19,2
+143473,2020-05-14,Unknown,Oregon,,121,0
+143545,2020-05-14,Unknown,Puerto Rico,,2427,117
+143550,2020-05-14,Unknown,Rhode Island,,1227,43
+143733,2020-05-14,Unknown,Tennessee,,85,0
+143982,2020-05-14,Unknown,Utah,,0,3
+143998,2020-05-14,Unknown,Vermont,,4,0
+144002,2020-05-14,Unknown,Virgin Islands,,69,6
+144122,2020-05-14,Unknown,Virginia,,3,0
+144480,2020-05-15,Unknown,Arkansas,,139,0
+144598,2020-05-15,Unknown,Colorado,,36,0
+144609,2020-05-15,Unknown,Connecticut,,238,3
+144614,2020-05-15,Unknown,Delaware,,43,1
+144679,2020-05-15,Unknown,Florida,,78,0
+144828,2020-05-15,Unknown,Georgia,,1644,0
+144844,2020-05-15,Unknown,Guam,,1123,6
+145157,2020-05-15,Unknown,Iowa,,10,0
+145422,2020-05-15,Unknown,Louisiana,,65,0
+145444,2020-05-15,Unknown,Maine,,2,0
+145469,2020-05-15,Unknown,Maryland,,10,91
+145486,2020-05-15,Unknown,Massachusetts,,285,2
+145563,2020-05-15,Unknown,Michigan,,2357,60
+145642,2020-05-15,Unknown,Minnesota,,34,9
+145779,2020-05-15,Kansas City,Missouri,,848,18
+145927,2020-05-15,Unknown,Nebraska,,61,0
+145944,2020-05-15,Unknown,Nevada,,0,1
+145957,2020-05-15,Unknown,New Hampshire,,56,0
+145978,2020-05-15,Unknown,New Jersey,,885,0
+146038,2020-05-15,New York City,New York,,195472,19972
+146206,2020-05-15,Unknown,Northern Mariana Islands,,19,2
+146467,2020-05-15,Unknown,Puerto Rico,,2542,122
+146472,2020-05-15,Unknown,Rhode Island,,1430,54
+146655,2020-05-15,Unknown,Tennessee,,85,0
+146922,2020-05-15,Unknown,Vermont,,4,0
+146926,2020-05-15,Unknown,Virgin Islands,,69,6
+147046,2020-05-15,Unknown,Virginia,,3,0
+147405,2020-05-16,Unknown,Arkansas,,131,0
+147523,2020-05-16,Unknown,Colorado,,48,0
+147534,2020-05-16,Unknown,Connecticut,,257,2
+147539,2020-05-16,Unknown,Delaware,,46,1
+147604,2020-05-16,Unknown,Florida,,79,0
+147753,2020-05-16,Unknown,Georgia,,1787,0
+147769,2020-05-16,Unknown,Guam,,1123,6
+148083,2020-05-16,Unknown,Iowa,,15,0
+148349,2020-05-16,Unknown,Louisiana,,72,0
+148371,2020-05-16,Unknown,Maine,,2,0
+148396,2020-05-16,Unknown,Maryland,,7,89
+148413,2020-05-16,Unknown,Massachusetts,,309,3
+148490,2020-05-16,Unknown,Michigan,,2336,59
+148569,2020-05-16,Unknown,Minnesota,,37,9
+148706,2020-05-16,Kansas City,Missouri,,863,18
+148856,2020-05-16,Unknown,Nebraska,,74,0
+148873,2020-05-16,Unknown,Nevada,,0,3
+148886,2020-05-16,Unknown,New Hampshire,,10,0
+148907,2020-05-16,Unknown,New Jersey,,996,0
+148967,2020-05-16,New York City,New York,,196481,20071
+149135,2020-05-16,Unknown,Northern Mariana Islands,,21,2
+149396,2020-05-16,Unknown,Puerto Rico,,2589,122
+149401,2020-05-16,Unknown,Rhode Island,,1645,64
+149584,2020-05-16,Unknown,Tennessee,,86,0
+149836,2020-05-16,Unknown,Utah,,1,1
+149852,2020-05-16,Unknown,Vermont,,4,0
+149856,2020-05-16,Unknown,Virgin Islands,,69,6
+149976,2020-05-16,Unknown,Virginia,,4,0
+150335,2020-05-17,Unknown,Arkansas,,132,0
+150453,2020-05-17,Unknown,Colorado,,54,0
+150464,2020-05-17,Unknown,Connecticut,,210,1
+150469,2020-05-17,Unknown,Delaware,,52,1
+150534,2020-05-17,Unknown,Florida,,79,0
+150683,2020-05-17,Unknown,Georgia,,2035,0
+150699,2020-05-17,Unknown,Guam,,1123,6
+151015,2020-05-17,Unknown,Iowa,,8,0
+151281,2020-05-17,Unknown,Louisiana,,72,0
+151303,2020-05-17,Unknown,Maine,,2,0
+151328,2020-05-17,Unknown,Maryland,,7,81
+151345,2020-05-17,Unknown,Massachusetts,,315,3
+151422,2020-05-17,Unknown,Michigan,,2658,60
+151501,2020-05-17,Unknown,Minnesota,,29,9
+151638,2020-05-17,Kansas City,Missouri,,895,19
+151788,2020-05-17,Unknown,Nebraska,,35,0
+151817,2020-05-17,Unknown,New Hampshire,,10,0
+151838,2020-05-17,Unknown,New Jersey,,949,0
+151898,2020-05-17,New York City,New York,,197486,20214
+152067,2020-05-17,Unknown,Northern Mariana Islands,,21,2
+152328,2020-05-17,Unknown,Puerto Rico,,2646,123
+152333,2020-05-17,Unknown,Rhode Island,,1885,74
+152516,2020-05-17,Unknown,Tennessee,,104,0
+152768,2020-05-17,Unknown,Utah,,8,2
+152784,2020-05-17,Unknown,Vermont,,5,0
+152788,2020-05-17,Unknown,Virgin Islands,,69,6
+152908,2020-05-17,Unknown,Virginia,,5,0
+153267,2020-05-18,Unknown,Arkansas,,130,0
+153385,2020-05-18,Unknown,Colorado,,50,0
+153396,2020-05-18,Unknown,Connecticut,,233,2
+153401,2020-05-18,Unknown,Delaware,,51,1
+153466,2020-05-18,Unknown,Florida,,79,0
+153615,2020-05-18,Unknown,Georgia,,2216,0
+153631,2020-05-18,Unknown,Guam,,1123,6
+153947,2020-05-18,Unknown,Iowa,,9,0
+154214,2020-05-18,Unknown,Louisiana,,72,0
+154236,2020-05-18,Unknown,Maine,,1,0
+154261,2020-05-18,Unknown,Maryland,,10,86
+154278,2020-05-18,Unknown,Massachusetts,,312,3
+154355,2020-05-18,Unknown,Michigan,,3171,60
+154434,2020-05-18,Unknown,Minnesota,,37,9
+154571,2020-05-18,Kansas City,Missouri,,901,20
+154721,2020-05-18,Unknown,Nebraska,,5,0
+154739,2020-05-18,Unknown,Nevada,,0,12
+154752,2020-05-18,Unknown,New Hampshire,,32,0
+154773,2020-05-18,Unknown,New Jersey,,835,0
+154834,2020-05-18,New York City,New York,,198114,20298
+155003,2020-05-18,Unknown,Northern Mariana Islands,,21,2
+155264,2020-05-18,Unknown,Puerto Rico,,2710,124
+155269,2020-05-18,Unknown,Rhode Island,,2006,81
+155452,2020-05-18,Unknown,Tennessee,,106,0
+155704,2020-05-18,Unknown,Utah,,3,2
+155720,2020-05-18,Unknown,Vermont,,5,0
+155724,2020-05-18,Unknown,Virgin Islands,,69,6
+155844,2020-05-18,Unknown,Virginia,,8,0
